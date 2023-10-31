@@ -1,0 +1,16 @@
+[
+  {
+    "Deutsch": {
+      "lists": [
+          [["manger", "essen"], ["dormir", "schlafen"], ["marcher", "laufen"]],
+          [["laver", "waschen"], ["faire", "machen"], ["aller", "gehen"]]
+      ]
+    },
+     "slovensky": {
+       "lists": [
+          [["manger", "jesť"], ["dormir", "spať"], ["marcher", "chodiť"]],
+          [["laver", "umývať"], ["faire", "robiť"], ["aller", "ísť"]]
+       ]
+    }
+  }
+]
