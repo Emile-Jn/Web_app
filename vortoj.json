@@ -2,8 +2,1646 @@
   {
     "Deutsch": {
       "lists": [
-          [["manger", "essen"], ["dormir", "schlafen"], ["marcher", "laufen"]],
-          [["laver", "waschen"], ["faire", "machen"], ["aller", "gehen"]]
+        [
+          [
+            "la maison",
+            "das Haus"
+          ],
+          [
+            "l'appartement",
+            "die Wohnung"
+          ],
+          [
+            "l'université",
+            "die Universität"
+          ],
+          [
+            "l'école",
+            "die Schule"
+          ],
+          [
+            "la mairie",
+            "die Rathaus"
+          ],
+          [
+            "la poste",
+            "die Post"
+          ],
+          [
+            "la ville",
+            "der Stadt"
+          ],
+          [
+            "le village",
+            "der Dorf"
+          ],
+          [
+            "la rue",
+            "die Straße"
+          ],
+          [
+            "le bâtiment",
+            "das Gebäude"
+          ],
+          [
+            "la voiture",
+            "das Auto"
+          ],
+          [
+            "le train",
+            "der Zug"
+          ],
+          [
+            "le vélo",
+            "das Fahrrad"
+          ],
+          [
+            "l'avion",
+            "das Flugzeug"
+          ],
+          [
+            "le bus",
+            "der Bus"
+          ],
+          [
+            "le tram",
+            "die Straßenbahn"
+          ],
+          [
+            "le camion",
+            "der Truck"
+          ],
+          [
+            "l'aéroport",
+            "der Flughafen"
+          ],
+          [
+            "la station",
+            "der Bahnhof"
+          ],
+          [
+            "la route",
+            "die Straße"
+          ]
+        ],
+        [
+          [
+            "la tasse",
+            "die Tasse"
+          ],
+          [
+            "le rideau",
+            "der Vorhang"
+          ],
+          [
+            "l'étagère",
+            "das Regal"
+          ],
+          [
+            "les toilettes",
+            "die Toilette"
+          ],
+          [
+            "le matelas",
+            "die Matratze"
+          ],
+          [
+            "l'oreiller",
+            "das Kissen"
+          ],
+          [
+            "le placard",
+            "der Schrank"
+          ],
+          [
+            "le frigo",
+            "der Kühlschrank"
+          ],
+          [
+            "le four",
+            "der Ofen"
+          ],
+          [
+            "le micro-ondes",
+            "die Mikrowelle"
+          ],
+          [
+            "le grille-pain",
+            "der Toaster"
+          ],
+          [
+            "la boîte",
+            "der Dose"
+          ],
+          [
+            "les couverts",
+            "das Besteck"
+          ],
+          [
+            "le couteau",
+            "das Messer"
+          ],
+          [
+            "la fourchette",
+            "die Gabel"
+          ],
+          [
+            "la cuillère",
+            "der Löffel"
+          ],
+          [
+            "la planche",
+            "das Brett"
+          ],
+          [
+            "l'assiette",
+            "der Teller"
+          ],
+          [
+            "le bol",
+            "die Schüssel"
+          ],
+          [
+            "le verre",
+            "das Glas"
+          ]
+        ],
+        [
+          [
+            "la carafe",
+            "die Karaffe"
+          ],
+          [
+            "l'eau",
+            "das Wasser"
+          ],
+          [
+            "le robinet",
+            "der Hahn"
+          ],
+          [
+            "l'évier",
+            "das Spülbecken"
+          ],
+          [
+            "le radiateur",
+            "der Heizkörper"
+          ],
+          [
+            "la douche",
+            "die Dusche"
+          ],
+          [
+            "le miroir",
+            "der Spiegel"
+          ],
+          [
+            "le canapé",
+            "das Sofa"
+          ],
+          [
+            "la chaise",
+            "der Stuhl"
+          ],
+          [
+            "le fauteuil",
+            "der Sessel"
+          ],
+          [
+            "le lit",
+            "das Bett"
+          ],
+          [
+            "la table",
+            "der Tisch"
+          ],
+          [
+            "le bureau",
+            "der Schreibtisch"
+          ],
+          [
+            "la lampe",
+            "die Lampe"
+          ],
+          [
+            "le tabouret",
+            "der Hocker"
+          ],
+          [
+            "la poubelle",
+            "der Mülleimer"
+          ],
+          [
+            "le sac",
+            "die Tasche"
+          ],
+          [
+            "l'étui",
+            "das Etui"
+          ],
+          [
+            "la batterie (de téléphone)",
+            "der Akku"
+          ],
+          [
+            "la page",
+            "die Seite"
+          ]
+        ],
+        [
+          [
+            "le travail",
+            "die Arbeit"
+          ],
+          [
+            "le climat",
+            "das Klima"
+          ],
+          [
+            "la cuisine",
+            "die Küche"
+          ],
+          [
+            "la salle, la pièce",
+            "der Raum"
+          ],
+          [
+            "la chambre",
+            "das Zimmer"
+          ],
+          [
+            "la salle d'attente",
+            "das Wartezimmer"
+          ],
+          [
+            "la salle de bain",
+            "das Badezimmer"
+          ],
+          [
+            "la salle à manger",
+            "das Esszimmer"
+          ],
+          [
+            "le salon",
+            "das Wohnzimmer"
+          ],
+          [
+            "la porte",
+            "die Tür"
+          ],
+          [
+            "la fenêtre",
+            "das Fenster"
+          ],
+          [
+            "la vitre",
+            "die Scheibe"
+          ],
+          [
+            "la poignée de porte",
+            "die Türklinke"
+          ],
+          [
+            "le mur intérieur",
+            "die Wand"
+          ],
+          [
+            "le mur extérieur",
+            "die Mauer"
+          ],
+          [
+            "le sol",
+            "der Boden"
+          ],
+          [
+            "le plafond",
+            "die Decke"
+          ],
+          [
+            "le toît",
+            "das Dach"
+          ],
+          [
+            "l'étage",
+            "der Stock"
+          ],
+          [
+            "le bouton",
+            "der Knopf"
+          ]
+        ],
+        [
+          [
+            "la chaussure",
+            "der Schuh"
+          ],
+          [
+            "la chaussette",
+            "der Kniestrumpf"
+          ],
+          [
+            "le pantalon",
+            "die Hose"
+          ],
+          [
+            "le t-shirt",
+            "das T-shirt"
+          ],
+          [
+            "le pull",
+            "der Pulli"
+          ],
+          [
+            "le manteau",
+            "der Mantel"
+          ],
+          [
+            "le chapeau",
+            "der Hut"
+          ],
+          [
+            "la casquette",
+            "die Schirmmütze"
+          ],
+          [
+            "le gant",
+            "der Handschuh"
+          ],
+          [
+            "le téléphone",
+            "das Telefon"
+          ],
+          [
+            "le chargeur",
+            "das Ladegerät"
+          ],
+          [
+            "l'écouteur",
+            "der Kopfhörer"
+          ],
+          [
+            "l'écran (d'affichage)",
+            "der Bildschirm"
+          ],
+          [
+            "le microphone",
+            "das Mikrofon"
+          ],
+          [
+            "la caméra",
+            "die Kamera"
+          ],
+          [
+            "le site web",
+            "die Website"
+          ],
+          [
+            "la souris",
+            "die Maus"
+          ],
+          [
+            "le clavier (d'ordi)",
+            "die Tastatur"
+          ],
+          [
+            "la touche (d'ordi)",
+            "die Taste"
+          ],
+          [
+            "le navigateur (internet)",
+            "der Browser"
+          ]
+        ],
+        [
+          [
+            "être",
+            "sein"
+          ],
+          [
+            "avoir",
+            "haben"
+          ],
+          [
+            "aller",
+            "gehen"
+          ],
+          [
+            "faire",
+            "machen"
+          ],
+          [
+            "dire",
+            "sagen"
+          ],
+          [
+            "parler",
+            "sprechen"
+          ],
+          [
+            "comprendre",
+            "verstehen"
+          ],
+          [
+            "écouter",
+            "zu hören"
+          ],
+          [
+            "entendre",
+            "hören"
+          ],
+          [
+            "savoir",
+            "wissen"
+          ],
+          [
+            "voir",
+            "sehen"
+          ],
+          [
+            "regarder",
+            "ansehen"
+          ],
+          [
+            "mettre",
+            "setzen"
+          ],
+          [
+            "prendre",
+            "nehmen"
+          ],
+          [
+            "donner",
+            "geben"
+          ],
+          [
+            "acheter",
+            "kaufen"
+          ],
+          [
+            "vendre",
+            "verkaufen"
+          ],
+          [
+            "payer",
+            "bezahlen"
+          ],
+          [
+            "gagner",
+            "gewinnen"
+          ],
+          [
+            "perdre",
+            "verlieren"
+          ]
+        ],
+        [
+          [
+            "il est",
+            "er ist"
+          ],
+          [
+            "il a",
+            "er hat"
+          ],
+          [
+            "il va",
+            "geht"
+          ],
+          [
+            "il fait",
+            "er macht"
+          ],
+          [
+            "il dit",
+            "er sagt"
+          ],
+          [
+            "il parle",
+            "er spricht"
+          ],
+          [
+            "il comprend",
+            "er versteht"
+          ],
+          [
+            "il écoute",
+            "er hört zu"
+          ],
+          [
+            "il entend",
+            "er hört"
+          ],
+          [
+            "il sait",
+            "er weiß"
+          ],
+          [
+            "il voit",
+            "er sieht"
+          ],
+          [
+            "il regarde",
+            "er sieht an"
+          ],
+          [
+            "il met",
+            "er setzt"
+          ],
+          [
+            "il prend",
+            "er nimmt"
+          ],
+          [
+            "il donne",
+            "er gibt"
+          ],
+          [
+            "il achète",
+            "er kauft"
+          ],
+          [
+            "il vend",
+            "er verkauft"
+          ],
+          [
+            "il paye",
+            "er bezahlt"
+          ],
+          [
+            "il gagne",
+            "er gewinnt"
+          ],
+          [
+            "il perd",
+            "er verliert"
+          ]
+        ],
+        [
+          [
+            "négocier",
+            "handeln"
+          ],
+          [
+            "marcher",
+            "laufen"
+          ],
+          [
+            "courir",
+            "rennen"
+          ],
+          [
+            "nager",
+            "schwimmen"
+          ],
+          [
+            "sauter",
+            "springen"
+          ],
+          [
+            "grimper",
+            "klettern"
+          ],
+          [
+            "pouvoir",
+            "können"
+          ],
+          [
+            "vouloir",
+            "wollen"
+          ],
+          [
+            "devoir (obligation)",
+            "müssen"
+          ],
+          [
+            "commencer",
+            "beginnen"
+          ],
+          [
+            "finir",
+            "enden"
+          ],
+          [
+            "porter",
+            "tragen"
+          ],
+          [
+            "apprendre",
+            "lernen"
+          ],
+          [
+            "enseigner",
+            "lehren"
+          ],
+          [
+            "étudier",
+            "studieren"
+          ],
+          [
+            "venir, arriver",
+            "kommen"
+          ],
+          [
+            "partir",
+            "ausgehen"
+          ],
+          [
+            "sortir",
+            "verlassen"
+          ],
+          [
+            "travailler",
+            "arbeiten"
+          ],
+          [
+            "chercher",
+            "suchen"
+          ]
+        ],
+        [
+          [
+            "il négocie",
+            "er handelt"
+          ],
+          [
+            "il marche",
+            "er läuft"
+          ],
+          [
+            "il court",
+            "er rennt"
+          ],
+          [
+            "il nage",
+            "er schwimmt"
+          ],
+          [
+            "il saute",
+            "er springt"
+          ],
+          [
+            "il grimpe",
+            "er klettert"
+          ],
+          [
+            "il peut",
+            "er kann"
+          ],
+          [
+            "il veut",
+            "er will"
+          ],
+          [
+            "il doit",
+            "er muss"
+          ],
+          [
+            "il commence",
+            "er beginnt"
+          ],
+          [
+            "il finit",
+            "er endet"
+          ],
+          [
+            "il porte",
+            "er trägt"
+          ],
+          [
+            "il apprend",
+            "er lernt"
+          ],
+          [
+            "il enseigne",
+            "er lehrt"
+          ],
+          [
+            "il étudie",
+            "er studiert"
+          ],
+          [
+            "il vient, arrive",
+            "er kommt"
+          ],
+          [
+            "il part",
+            "er geht aus"
+          ],
+          [
+            "il sort",
+            "er verlässt"
+          ],
+          [
+            "il travaille",
+            "er arbeitet"
+          ],
+          [
+            "il cherche",
+            "er sucht"
+          ]
+        ],
+        [
+          [
+            "trouver",
+            "finden"
+          ],
+          [
+            "vivre",
+            "leben"
+          ],
+          [
+            "mourir",
+            "sterben"
+          ],
+          [
+            "conduire",
+            "fahren"
+          ],
+          [
+            "nécessiter",
+            "brauchen"
+          ],
+          [
+            "nettoyer",
+            "reinigen"
+          ],
+          [
+            "laver",
+            "waschen"
+          ],
+          [
+            "cuisiner",
+            "kochen"
+          ],
+          [
+            "manger",
+            "essen"
+          ],
+          [
+            "boire",
+            "trinken"
+          ],
+          [
+            "habiter",
+            "wohnen"
+          ],
+          [
+            "s'appeler",
+            "heißen"
+          ],
+          [
+            "aller, se porter",
+            "gehen"
+          ],
+          [
+            "cuire",
+            "kochen"
+          ],
+          [
+            "dormir",
+            "schlafen"
+          ],
+          [
+            "connaître",
+            "kennen"
+          ],
+          [
+            "sentir",
+            "fühlen"
+          ],
+          [
+            "tomber",
+            "fallen"
+          ],
+          [
+            "aimer (bien)",
+            "mögen"
+          ],
+          [
+            "détester",
+            "hassen"
+          ]
+        ],
+        [
+          [
+            "il trouve",
+            "er findet"
+          ],
+          [
+            "il vit",
+            "er lebt"
+          ],
+          [
+            "il meurt",
+            "er stirbt"
+          ],
+          [
+            "il conduit",
+            "er fährt"
+          ],
+          [
+            "il nécessite",
+            "er braucht"
+          ],
+          [
+            "il nettoie",
+            "er reinigt"
+          ],
+          [
+            "il lave",
+            "er wäscht"
+          ],
+          [
+            "il cuisine",
+            "er kocht"
+          ],
+          [
+            "il mange",
+            "er isst"
+          ],
+          [
+            "il boit",
+            "er trinkt"
+          ],
+          [
+            "il habite",
+            "er wohnt"
+          ],
+          [
+            "il s'appelle",
+            "er heißt"
+          ],
+          [
+            "il va, se porte",
+            "er geht"
+          ],
+          [
+            "il cuit",
+            "er kocht"
+          ],
+          [
+            "il dort",
+            "er schläft"
+          ],
+          [
+            "il connaît",
+            "er kennt"
+          ],
+          [
+            "il sent",
+            "er fühlt"
+          ],
+          [
+            "il tombe",
+            "er fällt"
+          ],
+          [
+            "il aime (bien)",
+            "er mag"
+          ],
+          [
+            "il déteste",
+            "er hasst"
+          ]
+        ],
+        [
+          [
+            "prévoir",
+            "vorsehen"
+          ],
+          [
+            "attendre",
+            "warten"
+          ],
+          [
+            "demander (question)",
+            "fragen"
+          ],
+          [
+            "pleuvoir",
+            "regnen"
+          ],
+          [
+            "neiger",
+            "schneien"
+          ],
+          [
+            "couler",
+            "fließen"
+          ],
+          [
+            "essuyer",
+            "wischen"
+          ],
+          [
+            "lancer",
+            "werfen"
+          ],
+          [
+            "jeter",
+            "werfen"
+          ],
+          [
+            "cliquer",
+            "klicken"
+          ],
+          [
+            "ouvrir",
+            "öffnen"
+          ],
+          [
+            "fermer",
+            "schließen"
+          ],
+          [
+            "verrouiller",
+            "sperren"
+          ],
+          [
+            "appuyer",
+            "drücken"
+          ],
+          [
+            "rêver",
+            "träumen"
+          ],
+          [
+            "frapper",
+            "schlagen"
+          ],
+          [
+            "voler (en l'air)",
+            "fliegen"
+          ],
+          [
+            "casser",
+            "brechen"
+          ],
+          [
+            "réparer",
+            "reparieren"
+          ],
+          [
+            "poser",
+            "stellen"
+          ]
+        ],
+        [
+          [
+            "il prévoit",
+            "er sieht vor"
+          ],
+          [
+            "il attend",
+            "er wartet"
+          ],
+          [
+            "il demande",
+            "er fragt"
+          ],
+          [
+            "il pleut",
+            "es regnet"
+          ],
+          [
+            "il neige",
+            "es schneit"
+          ],
+          [
+            "il coule",
+            "er fließt"
+          ],
+          [
+            "il essuie",
+            "er wischt"
+          ],
+          [
+            "il lance",
+            "er wirft"
+          ],
+          [
+            "il jette",
+            "er wirft"
+          ],
+          [
+            "il clique",
+            "er klickt"
+          ],
+          [
+            "il ouvre",
+            "er öffnet"
+          ],
+          [
+            "il ferme",
+            "er schließt"
+          ],
+          [
+            "il verrouille",
+            "er sperrt"
+          ],
+          [
+            "il appuie",
+            "er drückt"
+          ],
+          [
+            "il rêve",
+            "er träumt"
+          ],
+          [
+            "il frappe",
+            "er schlägt"
+          ],
+          [
+            "il vole (en l'air)",
+            "er fliegt"
+          ],
+          [
+            "il casse",
+            "er bricht"
+          ],
+          [
+            "il répare",
+            "er repariert"
+          ],
+          [
+            "il pose",
+            "er stellt"
+          ]
+        ],
+        [
+          [
+            "sourire",
+            "lächeln"
+          ],
+          [
+            "rire",
+            "lachen"
+          ],
+          [
+            "pleurer",
+            "weinen"
+          ],
+          [
+            "proposer",
+            "bieten"
+          ],
+          [
+            "recevoir",
+            "erhalten"
+          ],
+          [
+            "construire",
+            "bauen"
+          ],
+          [
+            "se reposer",
+            "ruhen"
+          ],
+          [
+            "enlever",
+            "entfernen"
+          ],
+          [
+            "vider",
+            "leeren"
+          ],
+          [
+            "remplir",
+            "füllen"
+          ],
+          [
+            "vérifier",
+            "prüfen"
+          ],
+          [
+            "lire",
+            "lesen"
+          ],
+          [
+            "écrire",
+            "schreiben"
+          ],
+          [
+            "réserver",
+            "buchen"
+          ],
+          [
+            "jouer",
+            "spielen"
+          ],
+          [
+            "s'entraîner",
+            "trainieren"
+          ],
+          [
+            "chanter",
+            "singen"
+          ],
+          [
+            "danser",
+            "tanzen"
+          ],
+          [
+            "s'inscrire",
+            "registrieren"
+          ],
+          [
+            "participer",
+            "teilnehmen"
+          ]
+        ],
+        [
+          [
+            "il sourit",
+            "er lächelt"
+          ],
+          [
+            "il rit",
+            "er lacht"
+          ],
+          [
+            "il pleure",
+            "er weint"
+          ],
+          [
+            "il propose",
+            "er bietet"
+          ],
+          [
+            "il reçoit",
+            "er erhält"
+          ],
+          [
+            "il construit",
+            "er baut"
+          ],
+          [
+            "il se repose",
+            "er ruht"
+          ],
+          [
+            "il enlève",
+            "er entfernt"
+          ],
+          [
+            "il vide",
+            "er leert"
+          ],
+          [
+            "il remplit",
+            "er füllt"
+          ],
+          [
+            "il vérifie",
+            "er prüft"
+          ],
+          [
+            "il lit",
+            "er liest"
+          ],
+          [
+            "il écrit",
+            "er schreibt"
+          ],
+          [
+            "il réserve",
+            "er bucht"
+          ],
+          [
+            "il joue",
+            "er spielt"
+          ],
+          [
+            "il s'entraîne",
+            "er trainiert"
+          ],
+          [
+            "il chante",
+            "er singt"
+          ],
+          [
+            "il danse",
+            "er tanzt"
+          ],
+          [
+            "il s'inscrit",
+            "er registriert"
+          ],
+          [
+            "il participe",
+            "er nimmt teil"
+          ]
+        ],
+        [
+          [
+            "mais",
+            "aber"
+          ],
+          [
+            "où",
+            "wo"
+          ],
+          [
+            "tellement",
+            "so viel"
+          ],
+          [
+            "et",
+            "und"
+          ],
+          [
+            "ou",
+            "oder"
+          ],
+          [
+            "si, quand",
+            "wenn"
+          ],
+          [
+            "comme, comment",
+            "wie"
+          ],
+          [
+            "ainsi, de cette manière",
+            "so"
+          ],
+          [
+            "avant, devant",
+            "vor"
+          ],
+          [
+            "après",
+            "nach"
+          ],
+          [
+            "tôt",
+            "früh"
+          ],
+          [
+            "tard",
+            "spät"
+          ],
+          [
+            "de (appartenance)",
+            "von"
+          ],
+          [
+            "jusque",
+            "bis"
+          ],
+          [
+            "pour",
+            "für"
+          ],
+          [
+            "pourquoi",
+            "warum"
+          ],
+          [
+            "qui",
+            "wer"
+          ],
+          [
+            "quoi",
+            "was"
+          ],
+          [
+            "quand (question)",
+            "wann"
+          ],
+          [
+            "de (provenance)",
+            "aus"
+          ]
+        ],
+        [
+          [
+            "sans",
+            "ohne"
+          ],
+          [
+            "avec",
+            "mit"
+          ],
+          [
+            "sur",
+            "auf"
+          ],
+          [
+            "sous",
+            "unter"
+          ],
+          [
+            "dans, en",
+            "in"
+          ],
+          [
+            "entre, parmi",
+            "zwischen"
+          ],
+          [
+            "suivant (nom)",
+            "nächste"
+          ],
+          [
+            "derrière",
+            "hinter"
+          ],
+          [
+            "ici",
+            "hier"
+          ],
+          [
+            "là",
+            "da"
+          ],
+          [
+            "dès",
+            "seit"
+          ],
+          [
+            "beaucoup",
+            "viel"
+          ],
+          [
+            "peu",
+            "wenig"
+          ],
+          [
+            "à, vers",
+            "nach"
+          ],
+          [
+            "autant",
+            "ebenso"
+          ],
+          [
+            "même (pareil)",
+            "gleiche"
+          ],
+          [
+            "malgré",
+            "trotz"
+          ],
+          [
+            "que (subordination)",
+            "dass"
+          ],
+          [
+            "à, chez",
+            "zu"
+          ],
+          [
+            "autour de",
+            "um"
+          ]
+        ],
+        [
+          [
+            "donc",
+            "demzufolge"
+          ],
+          [
+            "ni ... ni",
+            "weder ... noch"
+          ],
+          [
+            "sauf",
+            "außer"
+          ],
+          [
+            "sinon",
+            "sonst"
+          ],
+          [
+            "soit ... soit",
+            "entweder ... oder"
+          ],
+          [
+            "pendant",
+            "während"
+          ],
+          [
+            "parce que",
+            "weil"
+          ],
+          [
+            "à côté de",
+            "neben"
+          ],
+          [
+            "un peu",
+            "etwas"
+          ],
+          [
+            "à cause de",
+            "wegen"
+          ],
+          [
+            "tout",
+            "gesamte"
+          ],
+          [
+            "en partie",
+            "teilweise"
+          ],
+          [
+            "l'un sur l'autre",
+            "aufeinander"
+          ],
+          [
+            "certains",
+            "manche"
+          ],
+          [
+            "moins",
+            "weniger"
+          ],
+          [
+            "la plupart de",
+            "der Großteil von"
+          ],
+          [
+            "certes",
+            "zwar"
+          ],
+          [
+            "de plus",
+            "ferner"
+          ],
+          [
+            "en revanche",
+            "dagegen"
+          ],
+          [
+            "à cela, en, y",
+            "dazu"
+          ]
+        ],
+        [
+          [
+            "à partir de",
+            "ab"
+          ],
+          [
+            "chaque",
+            "jede"
+          ],
+          [
+            "quelque chose",
+            "etwas"
+          ],
+          [
+            "quelqu'un",
+            "jemand"
+          ],
+          [
+            "plus (quantité)",
+            "mehr"
+          ],
+          [
+            "au lieu de",
+            "statt"
+          ],
+          [
+            "au dessus",
+            "über"
+          ],
+          [
+            "d'autres",
+            "weitere"
+          ],
+          [
+            "toujours",
+            "immer"
+          ],
+          [
+            "jamais",
+            "niemals"
+          ],
+          [
+            "souvent",
+            "oft"
+          ],
+          [
+            "pardon?",
+            "wie bitte?"
+          ],
+          [
+            "il y a",
+            "es gibt"
+          ],
+          [
+            "encore",
+            "noch"
+          ],
+          [
+            "toujours, encore",
+            "immer noch"
+          ],
+          [
+            "déjà",
+            "schon"
+          ],
+          [
+            "une fois",
+            "einmal"
+          ],
+          [
+            "au cas où",
+            "falls"
+          ],
+          [
+            "lorsque",
+            "als"
+          ],
+          [
+            "enfin",
+            "endlich"
+          ]
+        ],
+        [
+          [
+            "vers où",
+            "wohin"
+          ],
+          [
+            "d'où",
+            "woher"
+          ],
+          [
+            "alors, ensuite",
+            "dann"
+          ],
+          [
+            "que, donc",
+            "denn"
+          ],
+          [
+            "avant que",
+            "bevor"
+          ],
+          [
+            "si (doute)",
+            "ob"
+          ],
+          [
+            "quand même",
+            "trotzdem"
+          ],
+          [
+            "d'abord",
+            "zuvor"
+          ],
+          [
+            "mais (comparaison)",
+            "sondern"
+          ],
+          [
+            "pourtant",
+            "doch"
+          ],
+          [
+            "puisque (parce que)",
+            "da"
+          ],
+          [
+            "pour que",
+            "damit"
+          ],
+          [
+            "après que",
+            "nachdem"
+          ],
+          [
+            "bien que",
+            "obwohl"
+          ],
+          [
+            "depuis",
+            "seit"
+          ],
+          [
+            "tant que",
+            "solange"
+          ],
+          [
+            "aussi souvent que",
+            "sooft"
+          ],
+          [
+            "c'est pourquoi",
+            "darum"
+          ],
+          [
+            "en même temps, pourtant",
+            "dabei"
+          ],
+          [
+            "cependant, toutefois",
+            "allerdings"
+          ]
+        ]
       ]
     },
      "slovensky": {
