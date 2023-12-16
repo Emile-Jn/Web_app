@@ -19,10 +19,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 30px;
 }
 
 .input {
     font-size: 1rem;
+    height: 30px;
 }
 
 .feedback-container {
