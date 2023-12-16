@@ -19,7 +19,7 @@ let word_list = []
 let current_word_index = 0;
 let score = 0;
 let score_max = 20;
-let numlist = 0;
+let maxList = 0;  // the number of lists
 let message_1 = ["Attention aux espaces!", "Careful with spaces!"]
 let message_2 = ["Attention aux majuscules!", "Case sensitive!"]
 let message_3 = ["Attention aux espaces et aux majuscules!", "Careful with spaces and case sensitivity!"]
@@ -27,8 +27,8 @@ let message_4 = ["Essaye encore", "Try again"]
 let message_5 = ["choisir une langue à apprendre", "choose a language to learn"]
 let message_6 = ["Choisir une liste", "Choose a list"]
 let message_7 = ["ce doit être un nombre entier!", "it must be an integer!"]
-let message_8 = [`Le nombre de liste maximum est ${numlist}! Entrer un nombre entre 1 et ${numlist}.`,
-    `The maximum list number is ${numlist}! Enter a number between 1 and ${numlist}.`]
+let message_8 = [`Le nombre de liste maximum est ${maxList}! Entrer un nombre entre 1 et ${maxList}.`,
+    `The maximum list number is ${maxList}! Enter a number between 1 and ${maxList}.`]
 let message_9 = ["recommencer", "start again"]
 let message_10 = ["changer de liste", "change list"]
 let message_11 = ["changer de langue", "change language"]
@@ -122,11 +122,11 @@ function askForList() {
 function listHandler(e) {
     console.log("listHandler (line 145)") // TODO: remove
     if (e.key === "Enter") {
-        numlist = vortoj[0][lan]["lists"].length
-        console.log(`the length of the 'lists' object is ${numlist}`)
+        maxList = vortoj[0][lan]["lists"].length
+        console.log(`the length of the 'lists' object is ${maxList}`)
         while (true) { // while the input is not an existing list number
             listNumber = parseInt(input.value); // the number entered is treated as the number of the desired list
-            if (listNumber <= numlist && listNumber > 0) {
+            if (listNumber <= maxList && listNumber > 0) {
                 break; // exit loop if valid input
             }
             feedback.style.color = "red";
@@ -217,6 +217,7 @@ function checkAnswer() {
             input.disabled = false;
         }, 4000); // re-enable it after 4 seconds
         word_list[current_word_index][2] = true // answer has been shown
+        // add word later in list
         word_list.splice(current_word_index + rep, 0, word_list[current_word_index]) // add word later in list
         console.log(word_list) // show word list in console for debugging
         feedback.textContent = word_list[current_word_index][1] // show answer
