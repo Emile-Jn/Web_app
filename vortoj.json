@@ -652,10 +652,6 @@
           [
             "travailler",
             "arbeiten"
-          ],
-          [
-            "chercher",
-            "suchen"
           ]
         ],
         [
@@ -734,10 +730,6 @@
           [
             "il travaille",
             "er arbeitet"
-          ],
-          [
-            "il cherche",
-            "er sucht"
           ]
         ],
         [
@@ -934,11 +926,7 @@
             "wischen"
           ],
           [
-            "lancer",
-            "werfen"
-          ],
-          [
-            "jeter",
+            "lancer, jeter",
             "werfen"
           ],
           [
@@ -984,6 +972,10 @@
           [
             "poser",
             "stellen"
+          ],
+          [
+            "chercher",
+            "suchen"
           ]
         ],
         [
@@ -1016,11 +1008,7 @@
             "er wischt"
           ],
           [
-            "il lance",
-            "er wirft"
-          ],
-          [
-            "il jette",
+            "il lance, jette",
             "er wirft"
           ],
           [
@@ -1066,6 +1054,10 @@
           [
             "il pose",
             "er stellt"
+          ],
+          [
+            "il cherche",
+            "er sucht"
           ]
         ],
         [
@@ -2054,6 +2046,1204 @@
           [
             "navigateur (internet)",
             "prehliadač"
+          ]
+        ],
+        [
+          [
+            "être",
+            "byť"
+          ],
+          [
+            "avoir",
+            "mať"
+          ],
+          [
+            "aller",
+            "ísť"
+          ],
+          [
+            "faire",
+            "robiť"
+          ],
+          [
+            "dire",
+            "povedať"
+          ],
+          [
+            "parler",
+            "hovoriť"
+          ],
+          [
+            "comprendre",
+            "rozumieť"
+          ],
+          [
+            "écouter",
+            "počúvať"
+          ],
+          [
+            "entendre",
+            "počuť"
+          ],
+          [
+            "savoir",
+            "vedieť"
+          ],
+          [
+            "voir",
+            "vidieť"
+          ],
+          [
+            "regarder",
+            "pozrieť"
+          ],
+          [
+            "mettre",
+            "dať"
+          ],
+          [
+            "prendre",
+            "brať"
+          ],
+          [
+            "donner",
+            "dať"
+          ],
+          [
+            "acheter",
+            "kupiť"
+          ],
+          [
+            "vendre",
+            "predať"
+          ],
+          [
+            "payer",
+            "platiť"
+          ],
+          [
+            "gagner",
+            "vyhrať"
+          ],
+          [
+            "perdre",
+            "prehrať"
+          ]
+        ],
+        [
+          [
+            "il est",
+            "je"
+          ],
+          [
+            "il a",
+            "má"
+          ],
+          [
+            "il va",
+            "ide"
+          ],
+          [
+            "il fait",
+            "robí"
+          ],
+          [
+            "il dit",
+            "povie"
+          ],
+          [
+            "il parle",
+            "hovorí"
+          ],
+          [
+            "il comprend",
+            "rozumie"
+          ],
+          [
+            "il écoute",
+            "počúva"
+          ],
+          [
+            "il entend",
+            "počuje"
+          ],
+          [
+            "il sait",
+            "vie"
+          ],
+          [
+            "il voit",
+            "vidí"
+          ],
+          [
+            "il regarde",
+            "pozerá"
+          ],
+          [
+            "il met",
+            "dá"
+          ],
+          [
+            "il prend",
+            "berie"
+          ],
+          [
+            "il donne",
+            "dáva"
+          ],
+          [
+            "il achète",
+            "kúpi"
+          ],
+          [
+            "il vend",
+            "predá"
+          ],
+          [
+            "il paie",
+            "platí"
+          ],
+          [
+            "il gagne",
+            "vyhrá"
+          ],
+          [
+            "il perd",
+            "prehrá"
+          ]
+        ],
+        [
+          [
+            "négocier",
+            "vyjednávať"
+          ],
+          [
+            "marcher",
+            "chodiť"
+          ],
+          [
+            "courir",
+            "bežať"
+          ],
+          [
+            "nager",
+            "plávať"
+          ],
+          [
+            "sauter",
+            "skočiť"
+          ],
+          [
+            "grimper",
+            "liezť"
+          ],
+          [
+            "pouvoir (autorisation)",
+            "smieť"
+          ],
+          [
+            "pouvoir (capacité)",
+            "môcť"
+          ],
+          [
+            "vouloir",
+            "chcieť"
+          ],
+          [
+            "devoir",
+            "musieť"
+          ],
+          [
+            "commencer",
+            "začať"
+          ],
+          [
+            "finir",
+            "končiť"
+          ],
+          [
+            "porter",
+            "niesť"
+          ],
+          [
+            "apprendre (à faire)",
+            "učiť sa"
+          ],
+          [
+            "enseigner",
+            "učiť"
+          ],
+          [
+            "étudier",
+            "študovať"
+          ],
+          [
+            "venir, arriver",
+            "prísť"
+          ],
+          [
+            "partir",
+            "odísť"
+          ],
+          [
+            "sortir",
+            "vyjsť"
+          ],
+          [
+            "travailler",
+            "pracovať"
+          ]
+        ],
+        [
+          [
+            "il négocie",
+            "vyjednáva"
+          ],
+          [
+            "il marche",
+            "chodí"
+          ],
+          [
+            "il court",
+            "beží"
+          ],
+          [
+            "il nage",
+            "pláva"
+          ],
+          [
+            "il saute",
+            "skočí"
+          ],
+          [
+            "il grimpe",
+            "lezie"
+          ],
+          [
+            "il peut (autorisation)",
+            "smie"
+          ],
+          [
+            "il peut (capacité)",
+            "môže"
+          ],
+          [
+            "il veut",
+            "chce"
+          ],
+          [
+            "il doit",
+            "musí"
+          ],
+          [
+            "il commence",
+            "začne"
+          ],
+          [
+            "il finit",
+            "končí"
+          ],
+          [
+            "il porte",
+            "nesie"
+          ],
+          [
+            "il apprend (à faire)",
+            "učí sa"
+          ],
+          [
+            "il enseigne",
+            "učí"
+          ],
+          [
+            "il étudie",
+            "študuje"
+          ],
+          [
+            "il arrive",
+            "príde"
+          ],
+          [
+            "il part",
+            "odíde"
+          ],
+          [
+            "il sort",
+            "vyjde"
+          ],
+          [
+            "il travaille",
+            "pracuje"
+          ]
+        ],
+        [
+          [
+            "trouver",
+            "nájsť"
+          ],
+          [
+            "vivre",
+            "žiť"
+          ],
+          [
+            "mourir",
+            "umrieť"
+          ],
+          [
+            "conduire",
+            "riadiť"
+          ],
+          [
+            "nécessiter",
+            "potrebovať"
+          ],
+          [
+            "nettoyer",
+            "čistiť"
+          ],
+          [
+            "laver",
+            "umývať"
+          ],
+          [
+            "cuisiner",
+            "variť"
+          ],
+          [
+            "boire",
+            "piť"
+          ],
+          [
+            "habiter",
+            "bývať"
+          ],
+          [
+            "s'appeler",
+            "volať sa"
+          ],
+          [
+            "aller, se porter",
+            "mať sa"
+          ],
+          [
+            "cuire",
+            "piecť"
+          ],
+          [
+            "dormir",
+            "spáť"
+          ],
+          [
+            "connaître",
+            "poznať"
+          ],
+          [
+            "sentir",
+            "cítiť"
+          ],
+          [
+            "tomber",
+            "padnúť"
+          ],
+          [
+            "détester",
+            "nenávidieť"
+          ]
+        ],
+        [
+          [
+            "il trouve",
+            "nájde"
+          ],
+          [
+            "il vit",
+            "žije"
+          ],
+          [
+            "il meurt",
+            "umrie"
+          ],
+          [
+            "il conduit",
+            "riadi"
+          ],
+          [
+            "il nécessite",
+            "potrebuje"
+          ],
+          [
+            "il nettoie",
+            "čistí"
+          ],
+          [
+            "il lave",
+            "umýva"
+          ],
+          [
+            "il cuisine",
+            "varí"
+          ],
+          [
+            "il boit",
+            "pije"
+          ],
+          [
+            "il habite",
+            "býva"
+          ],
+          [
+            "il s'appelle",
+            "volá sa"
+          ],
+          [
+            "il va, se porte",
+            "má sa"
+          ],
+          [
+            "il cuit",
+            "pečie"
+          ],
+          [
+            "il dort",
+            "spí"
+          ],
+          [
+            "il connaît",
+            "pozná"
+          ],
+          [
+            "il sent",
+            "cíti"
+          ],
+          [
+            "il tombe",
+            "padne"
+          ],
+          [
+            "il déteste",
+            "nenávidí"
+          ]
+        ],
+        [
+          [
+            "prévoir",
+            "predvidať"
+          ],
+          [
+            "attendre",
+            "čakať"
+          ],
+          [
+            "demander",
+            "pýtať sa"
+          ],
+          [
+            "pleuvoir",
+            "pršať"
+          ],
+          [
+            "neiger",
+            "snežiť"
+          ],
+          [
+            "couler",
+            "tiecť"
+          ],
+          [
+            "essuyer",
+            "utrieť"
+          ],
+          [
+            "lancer, jeter",
+            "hodiť"
+          ],
+          [
+            "cliquer",
+            "kliknuť"
+          ],
+          [
+            "ouvrir",
+            "otvoriť"
+          ],
+          [
+            "fermer",
+            "zavrieť"
+          ],
+          [
+            "verrouiller",
+            "zamknúť"
+          ],
+          [
+            "appuyer",
+            "tlačiť"
+          ],
+          [
+            "rêver",
+            "snívať"
+          ],
+          [
+            "frapper",
+            "udrieť"
+          ],
+          [
+            "voler (en l'air)",
+            "lietať"
+          ],
+          [
+            "casser",
+            "rozbiť"
+          ],
+          [
+            "réparer",
+            "opraviť"
+          ],
+          [
+            "poser",
+            "položiť"
+          ],
+          [
+            "chercher",
+            "hľadať"
+          ]
+        ],
+        [
+          [
+            "il prévoit",
+            "predvída"
+          ],
+          [
+            "il attend",
+            "čaká"
+          ],
+          [
+            "il demande",
+            "pýta sa"
+          ],
+          [
+            "il pleut",
+            "prší"
+          ],
+          [
+            "il neige",
+            "sneží"
+          ],
+          [
+            "il coule",
+            "tečie"
+          ],
+          [
+            "il essuie",
+            "utrie"
+          ],
+          [
+            "il lance, jette",
+            "hodí"
+          ],
+          [
+            "il clique",
+            "klikne"
+          ],
+          [
+            "il ouvre",
+            "otvorí"
+          ],
+          [
+            "il ferme",
+            "zavrie"
+          ],
+          [
+            "il verrouille",
+            "zamkne"
+          ],
+          [
+            "il appuie",
+            "tlačí"
+          ],
+          [
+            "il rêve",
+            "sníva"
+          ],
+          [
+            "il frappe",
+            "udrie"
+          ],
+          [
+            "il vole (en l'air)",
+            "lieta"
+          ],
+          [
+            "il casse",
+            "rozbije"
+          ],
+          [
+            "il répare",
+            "opraví"
+          ],
+          [
+            "il pose",
+            "položí"
+          ],
+          [
+            "il cherche",
+            "hľadá"
+          ]
+        ],
+        [
+          [
+            "sourire",
+            "usmiať sa"
+          ],
+          [
+            "rire",
+            "smiať sa"
+          ],
+          [
+            "pleurer",
+            "plakať"
+          ],
+          [
+            "proposer",
+            "navrhnuť"
+          ],
+          [
+            "recevoir",
+            "dostať"
+          ],
+          [
+            "construire",
+            "postaviť"
+          ],
+          [
+            "se reposer",
+            "oddýchnuť"
+          ],
+          [
+            "enlever",
+            "odobrať"
+          ],
+          [
+            "vider",
+            "vyprázdniť"
+          ],
+          [
+            "remplir",
+            "naplniť"
+          ],
+          [
+            "vérifier",
+            "overiť"
+          ],
+          [
+            "lire",
+            "čítať"
+          ],
+          [
+            "écrire",
+            "písať"
+          ],
+          [
+            "réserver",
+            "rezervovať"
+          ],
+          [
+            "jouer",
+            "hrať"
+          ],
+          [
+            "s'entraîner",
+            "cvičiť"
+          ],
+          [
+            "chanter",
+            "spievať"
+          ],
+          [
+            "danser",
+            "tancovať"
+          ],
+          [
+            "s'inscrire",
+            "prihlásiť"
+          ],
+          [
+            "participer",
+            "zúčastniť sa"
+          ]
+        ],
+        [
+          [
+            "il sourit",
+            "usmeje sa"
+          ],
+          [
+            "il rit",
+            "smeje sa"
+          ],
+          [
+            "il pleure",
+            "plače"
+          ],
+          [
+            "il propose",
+            "navrhne"
+          ],
+          [
+            "il reçoit",
+            "dostane"
+          ],
+          [
+            "il construit",
+            "postaví"
+          ],
+          [
+            "il se repose",
+            "oddýchne"
+          ],
+          [
+            "il enlève",
+            "zoberie"
+          ],
+          [
+            "il vide",
+            "vyprázdni"
+          ],
+          [
+            "il remplit",
+            "naplní"
+          ],
+          [
+            "il vérifie",
+            "overí"
+          ],
+          [
+            "il lit",
+            "číta"
+          ],
+          [
+            "il écrit",
+            "píše"
+          ],
+          [
+            "il réserve",
+            "rezervuje"
+          ],
+          [
+            "il joue",
+            "hrá"
+          ],
+          [
+            "il s'entraîne",
+            "cvičí"
+          ],
+          [
+            "il chante",
+            "spieva"
+          ],
+          [
+            "il danse",
+            "tancuje"
+          ],
+          [
+            "il s'inscrit",
+            "prihlási"
+          ],
+          [
+            "il participe",
+            "zúčastní sa"
+          ]
+        ],
+        [
+          [
+            "mais",
+            "ale"
+          ],
+          [
+            "où (statique)",
+            "kde"
+          ],
+          [
+            "tellement",
+            "tak"
+          ],
+          [
+            "et",
+            "a"
+          ],
+          [
+            "ou",
+            "alebo"
+          ],
+          [
+            "si",
+            "ak"
+          ],
+          [
+            "comme, comment",
+            "ako"
+          ],
+          [
+            "ainsi, de cette manière",
+            "tak"
+          ],
+          [
+            "devant, avant",
+            "pred"
+          ],
+          [
+            "après (préposition)",
+            "po"
+          ],
+          [
+            "tôt",
+            "skoro"
+          ],
+          [
+            "tard",
+            "neskoro"
+          ],
+          [
+            "jusque",
+            "až"
+          ],
+          [
+            "pour",
+            "pre"
+          ],
+          [
+            "pourquoi",
+            "prečo"
+          ],
+          [
+            "qui",
+            "kto"
+          ],
+          [
+            "quoi",
+            "čo"
+          ],
+          [
+            "quand",
+            "keď"
+          ],
+          [
+            "de (endroit)",
+            "zo"
+          ]
+        ],
+        [
+          [
+            "sans",
+            "bez"
+          ],
+          [
+            "avec",
+            "s"
+          ],
+          [
+            "sur",
+            "na"
+          ],
+          [
+            "sous",
+            "pod"
+          ],
+          [
+            "dans",
+            "v"
+          ],
+          [
+            "en",
+            "za"
+          ],
+          [
+            "entre, parmi",
+            "medzi"
+          ],
+          [
+            "suivant (nom)",
+            "ďalší"
+          ],
+          [
+            "derrière",
+            "za"
+          ],
+          [
+            "ici",
+            "tu"
+          ],
+          [
+            "là",
+            "tam"
+          ],
+          [
+            "dès, à partir de",
+            "od"
+          ],
+          [
+            "beaucoup",
+            "veľa"
+          ],
+          [
+            "peu",
+            "málo"
+          ],
+          [
+            "à",
+            "do"
+          ],
+          [
+            "vers",
+            "ku"
+          ],
+          [
+            "autant",
+            "toľko"
+          ],
+          [
+            "même (pareil)",
+            "rovnaký"
+          ],
+          [
+            "malgré",
+            "napriek"
+          ],
+          [
+            "autour",
+            "okolo"
+          ]
+        ],
+        [
+          [
+            "donc",
+            "teda"
+          ],
+          [
+            "ni",
+            "ani"
+          ],
+          [
+            "sauf",
+            "okrem"
+          ],
+          [
+            "sinon",
+            "inak"
+          ],
+          [
+            "soit ... soit",
+            "buď ... alebo"
+          ],
+          [
+            "pendant",
+            "kým"
+          ],
+          [
+            "parce que, à cause de",
+            "lebo"
+          ],
+          [
+            "à côté",
+            "vedľa"
+          ],
+          [
+            "un peu",
+            "trochu"
+          ],
+          [
+            "tout le",
+            "celý"
+          ],
+          [
+            "en partie",
+            "čiastočne"
+          ],
+          [
+            "certains",
+            "niektoré"
+          ],
+          [
+            "moins",
+            "menej"
+          ],
+          [
+            "la plupart de",
+            "väščina"
+          ],
+          [
+            "que, quel, lequel",
+            "ktorý"
+          ],
+          [
+            "par (passage)",
+            "cez"
+          ]
+        ],
+        [
+          [
+            "chaque",
+            "každý"
+          ],
+          [
+            "quelque chose",
+            "niečo"
+          ],
+          [
+            "quelqu'un",
+            "niekto"
+          ],
+          [
+            "plus (quantité)",
+            "viac"
+          ],
+          [
+            "au lieu de",
+            "namiesto"
+          ],
+          [
+            "au dessus",
+            "nad"
+          ],
+          [
+            "toujours",
+            "vždy"
+          ],
+          [
+            "jamais",
+            "nikdy"
+          ],
+          [
+            "souvent",
+            "často"
+          ],
+          [
+            "pardon?",
+            "čo prosím?"
+          ],
+          [
+            "il y a",
+            "je"
+          ],
+          [
+            "encore",
+            "ešte"
+          ],
+          [
+            "toujours, encore",
+            "stále"
+          ],
+          [
+            "déjà",
+            "už"
+          ],
+          [
+            "au cas où",
+            "v prípade"
+          ],
+          [
+            "enfin",
+            "konečne"
+          ],
+          [
+            "après (adverbe)",
+            "potom"
+          ],
+          [
+            "malgré",
+            "napriek"
+          ],
+          [
+            "encore un fois",
+            "znova"
+          ],
+          [
+            "auparavant",
+            "predtým"
+          ],
+          [
+            "n'importe où",
+            "kamkoľvek"
+          ]
+        ],
+        [
+          [
+            "où (dynamique)",
+            "kam"
+          ],
+          [
+            "d'où",
+            "odkiaľ"
+          ],
+          [
+            "alors, ensuite",
+            "takže"
+          ],
+          [
+            "si (doute)",
+            "keby"
+          ],
+          [
+            "quand même",
+            "predsa len"
+          ],
+          [
+            "d'abord",
+            "najprv"
+          ],
+          [
+            "pourtant",
+            "predsa"
+          ],
+          [
+            "puisque (parce que)",
+            "pretože"
+          ],
+          [
+            "pour que",
+            "aby"
+          ],
+          [
+            "depuis (moment)",
+            "od"
+          ],
+          [
+            "tant que",
+            "kým"
+          ],
+          [
+            "c'est pourquoi",
+            "preto"
+          ],
+          [
+            "en même temps, pourtant",
+            "súčasne"
+          ],
+          [
+            "cependant, toutefois",
+            "jednako"
+          ],
+          [
+            "pour le moment",
+            "zatiaľ"
+          ],
+          [
+            "n'importe quand",
+            "kedykoľvek"
+          ],
+          [
+            "même si, bien que",
+            "hoci"
+          ],
+          [
+            "depuis (durée)",
+            "už"
+          ],
+          [
+            "première fois",
+            "prvýkrát"
+          ],
+          [
+            "aussi",
+            "tiež"
           ]
         ]
       ]

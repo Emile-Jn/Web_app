@@ -27,8 +27,17 @@ let message_4 = ["Essaye encore", "Try again"]
 let message_5 = ["choisir une langue à apprendre", "choose a language to learn"]
 let message_6 = ["Choisir une liste", "Choose a list"]
 let message_7 = ["ce doit être un nombre entier!", "it must be an integer!"]
-let message_8 = [`Le nombre de liste maximum est ${maxList}! Entrer un nombre entre 1 et ${maxList}.`,
-    `The maximum list number is ${maxList}! Enter a number between 1 and ${maxList}.`]
+// let message_8 = [`Le nombre de liste maximum est ${maxList}! Entrer un nombre entre 1 et ${maxList}.`,
+   // `The maximum list number is ${maxList}! Enter a number between 1 and ${maxList}.`] // TODO: remove
+function message_8(langue, maxList) {
+    if (langue === 0) {
+        return `Le nombre de liste maximum est ${maxList}! Entrer un nombre entre 1 et ${maxList}.`
+    } else if (langue === 1) {
+        return `The maximum list number is ${maxList}! Enter a number between 1 and ${maxList}.`
+    } else {
+        return "error"
+    }
+}
 let message_9 = ["recommencer", "start again"]
 let message_10 = ["changer de liste", "change list"]
 let message_11 = ["changer de langue", "change language"]
@@ -66,10 +75,11 @@ function fetchQuestions() {
     loadJSONFile("vortoj.json", function (data) {
         if (data) {
             vortoj = JSON.parse(data);
+            console.log(Object.keys(vortoj[0])) // TODO: remove
             // displayQuestion();
         } else {
-            // If no data is found, show a message to the user to add questions manually
-            questionElem.textContent = "Please add questions manually in the JSON format.";
+            // If no data is found, show a message
+            questionElem.textContent = "The lists were not found.";
         }
     });
 }
@@ -122,6 +132,9 @@ function askForList() {
 function listHandler(e) {
     console.log("listHandler (line 145)") // TODO: remove
     if (e.key === "Enter") {
+        console.log(Object.keys(vortoj[0])) // TODO: remove
+        console.log(lan) // TODO: remove
+        console.log(vortoj[0][lan]["lists"]) // TODO: remove
         maxList = vortoj[0][lan]["lists"].length
         console.log(`the length of the 'lists' object is ${maxList}`)
         while (true) { // while the input is not an existing list number
@@ -130,7 +143,7 @@ function listHandler(e) {
                 break; // exit loop if valid input
             }
             feedback.style.color = "red";
-            feedback.textContent = message_8[langue];
+            feedback.textContent = message_8(langue, maxList);
             input.value = "";
             return;
         }
