@@ -1633,6 +1633,2918 @@
             "cependant, toutefois",
             "allerdings"
           ]
+        ],
+        [
+          [
+            "zéro",
+            "_null"
+          ],
+          [
+            "un",
+            "eins"
+          ],
+          [
+            "deux",
+            "zwei"
+          ],
+          [
+            "trois",
+            "drei"
+          ],
+          [
+            "quatre",
+            "vier"
+          ],
+          [
+            "cinq",
+            "fünf"
+          ],
+          [
+            "six",
+            "sechs"
+          ],
+          [
+            "sept",
+            "sieben"
+          ],
+          [
+            "huit",
+            "acht"
+          ],
+          [
+            "neuf",
+            "neun"
+          ],
+          [
+            "dix",
+            "zehn"
+          ],
+          [
+            "onze",
+            "elf"
+          ],
+          [
+            "douze",
+            "zwölf"
+          ],
+          [
+            "treize",
+            "dreizehn"
+          ],
+          [
+            "quatorze",
+            "vierzehn"
+          ],
+          [
+            "quinze",
+            "fünfzehn"
+          ],
+          [
+            "seize",
+            "sechzehn"
+          ],
+          [
+            "dix-sept",
+            "siebzehn"
+          ],
+          [
+            "dix-huit",
+            "achtzehn"
+          ],
+          [
+            "dix-neuf",
+            "neunzehn"
+          ]
+        ],
+        [
+          [
+            "vingt",
+            "zwanzig"
+          ],
+          [
+            "trente",
+            "dreißig"
+          ],
+          [
+            "quarante",
+            "vierzig"
+          ],
+          [
+            "cinquante",
+            "fünfzig"
+          ],
+          [
+            "soixante",
+            "sechzig"
+          ],
+          [
+            "soixante-dix",
+            "siebzig"
+          ],
+          [
+            "quatre-vingts",
+            "achtzig"
+          ],
+          [
+            "quatre-vingts-dix",
+            "neunzig"
+          ],
+          [
+            "cent",
+            "hundert"
+          ],
+          [
+            "deux-cents",
+            "zweihundert"
+          ],
+          [
+            "trois-cents",
+            "dreihundert"
+          ],
+          [
+            "mille",
+            "tausend"
+          ],
+          [
+            "deux-mille",
+            "zweitausend"
+          ],
+          [
+            "trois-mille",
+            "dreitausend"
+          ],
+          [
+            "dix-mille",
+            "zehntausend"
+          ],
+          [
+            "cent mille",
+            "hunderttausend"
+          ],
+          [
+            "un million",
+            "ein Million"
+          ],
+          [
+            "un milliard",
+            "ein Milliarde"
+          ],
+          [
+            "zérotième",
+            "nullte"
+          ],
+          [
+            "premier",
+            "erste"
+          ]
+        ],
+        [
+          [
+            "deuxième",
+            "zweite"
+          ],
+          [
+            "troisième",
+            "dritte"
+          ],
+          [
+            "quatrième",
+            "vierte"
+          ],
+          [
+            "cinquième",
+            "fünfte"
+          ],
+          [
+            "sixième",
+            "sechste"
+          ],
+          [
+            "septième",
+            "siebte"
+          ],
+          [
+            "huitième",
+            "achte"
+          ],
+          [
+            "neuvième",
+            "neunte"
+          ],
+          [
+            "dixième",
+            "zehnte"
+          ],
+          [
+            "onzième",
+            "elfte"
+          ]
+        ],
+        [
+          [
+            "chaud",
+            "heiß"
+          ],
+          [
+            "froid",
+            "kalt"
+          ],
+          [
+            "bon",
+            "gut"
+          ],
+          [
+            "mauvais",
+            "schlecht"
+          ],
+          [
+            "grand",
+            "groß"
+          ],
+          [
+            "petit",
+            "klein"
+          ],
+          [
+            "long",
+            "lang"
+          ],
+          [
+            "court",
+            "kurz"
+          ],
+          [
+            "haut",
+            "hoch"
+          ],
+          [
+            "bas",
+            "niedrig"
+          ],
+          [
+            "mignon",
+            "hübsch"
+          ],
+          [
+            "beau",
+            "schön"
+          ],
+          [
+            "nouveau",
+            "neu"
+          ],
+          [
+            "vieux",
+            "alt"
+          ],
+          [
+            "moderne",
+            "moderne"
+          ],
+          [
+            "moche",
+            "hässlich"
+          ],
+          [
+            "bizarre",
+            "seltsam"
+          ],
+          [
+            "normal",
+            "normale"
+          ],
+          [
+            "dur",
+            "hart"
+          ],
+          [
+            "mou",
+            "weich"
+          ]
+        ],
+        [
+          [
+            "agréable",
+            "angenehm"
+          ],
+          [
+            "désagéable",
+            "unangenehm"
+          ],
+          [
+            "propre",
+            "sauber"
+          ],
+          [
+            "sale",
+            "schmutzig"
+          ],
+          [
+            "lumineux",
+            "leuchtend"
+          ],
+          [
+            "sombre",
+            "dunkel"
+          ],
+          [
+            "douloureux",
+            "schmerzhaft"
+          ],
+          [
+            "joyeux",
+            "fröhlich"
+          ],
+          [
+            "triste",
+            "traurig"
+          ],
+          [
+            "divertissant",
+            "unterhaltsam"
+          ],
+          [
+            "drôle",
+            "lustig"
+          ],
+          [
+            "intéressant",
+            "interessant"
+          ],
+          [
+            "spécial",
+            "speziell"
+          ],
+          [
+            "ordinaire",
+            "üblich"
+          ],
+          [
+            "cher",
+            "teuer"
+          ],
+          [
+            "pas cher",
+            "billig"
+          ],
+          [
+            "écologique",
+            "ökologisch"
+          ],
+          [
+            "frais",
+            "frisch"
+          ],
+          [
+            "pourri",
+            "faul"
+          ],
+          [
+            "blanc",
+            "weiss"
+          ]
+        ],
+        [
+          [
+            "jaune",
+            "gelb"
+          ],
+          [
+            "bleu",
+            "blau"
+          ],
+          [
+            "vert",
+            "grün"
+          ],
+          [
+            "noir",
+            "schwarz"
+          ],
+          [
+            "rouge",
+            "rot"
+          ],
+          [
+            "rose",
+            "rosa"
+          ],
+          [
+            "orange",
+            "orange"
+          ],
+          [
+            "violet",
+            "lila"
+          ],
+          [
+            "gris",
+            "grau"
+          ],
+          [
+            "marron",
+            "braun"
+          ],
+          [
+            "anonyme",
+            "anonym"
+          ],
+          [
+            "semblable",
+            "ähnlich"
+          ],
+          [
+            "commun",
+            "allgemeine"
+          ],
+          [
+            "suivant",
+            "folgend"
+          ],
+          [
+            "loin",
+            "weit"
+          ],
+          [
+            "requis",
+            "geboten"
+          ],
+          [
+            "permanent",
+            "ständig"
+          ],
+          [
+            "complet",
+            "vollständig"
+          ],
+          [
+            "nécessaire",
+            "nötig"
+          ],
+          [
+            "fréquent",
+            "häufig"
+          ]
+        ],
+        [
+          [
+            "sage",
+            "weise"
+          ],
+          [
+            "autre",
+            "andere"
+          ],
+          [
+            "libre",
+            "frei"
+          ],
+          [
+            "de bonne volonté",
+            "willig"
+          ],
+          [
+            "volontaire",
+            "freiwillig"
+          ],
+          [
+            "pratique",
+            "praktische"
+          ],
+          [
+            "avec plaisir",
+            "gerne"
+          ],
+          [
+            "précieux",
+            "kostbar"
+          ],
+          [
+            "malade",
+            "krank"
+          ],
+          [
+            "sain",
+            "gesund"
+          ],
+          [
+            "marié",
+            "verheiratet"
+          ],
+          [
+            "fier",
+            "stoltz"
+          ],
+          [
+            "typique",
+            "typische"
+          ],
+          [
+            "suffisant",
+            "ausreichend"
+          ],
+          [
+            "utile",
+            "nützlich"
+          ],
+          [
+            "fatigué",
+            "müde"
+          ],
+          [
+            "meilleur",
+            "besser"
+          ],
+          [
+            "pire",
+            "schlimmer"
+          ],
+          [
+            "n'importe quel",
+            "beliebig"
+          ],
+          [
+            "surprenant",
+            "überraschend"
+          ]
+        ],
+        [
+          [
+            "fragile",
+            "zerbrechlich"
+          ],
+          [
+            "solide",
+            "solide"
+          ],
+          [
+            "liquide",
+            "flüssig"
+          ],
+          [
+            "pointu",
+            "spitz"
+          ],
+          [
+            "lisse",
+            "glatt"
+          ],
+          [
+            "disponible, libre",
+            "frei"
+          ],
+          [
+            "ouvert",
+            "offen"
+          ],
+          [
+            "fermé",
+            "geschlossen"
+          ],
+          [
+            "courant, fluide",
+            "fließend"
+          ],
+          [
+            "étranger",
+            "fremd"
+          ],
+          [
+            "célèbre",
+            "berühmt"
+          ],
+          [
+            "politique",
+            "politisch"
+          ],
+          [
+            "jeune",
+            "jung"
+          ],
+          [
+            "stupide",
+            "dumm"
+          ],
+          [
+            "gentil",
+            "freundlich"
+          ],
+          [
+            "méchant",
+            "böse"
+          ],
+          [
+            "passé",
+            "vergangen"
+          ],
+          [
+            "intérieur",
+            "innen"
+          ],
+          [
+            "extérieur",
+            "außen"
+          ]
+        ],
+        [
+          [
+            "la nourriture",
+            "das Essen"
+          ],
+          [
+            "le repas",
+            "die Mahlzeit"
+          ],
+          [
+            "le petit-déjeuner",
+            "das Frühstück"
+          ],
+          [
+            "le déjeuner",
+            "das Mittagessen"
+          ],
+          [
+            "le dîner",
+            "das Abendessen"
+          ],
+          [
+            "le goûter",
+            "der Snack"
+          ],
+          [
+            "la boisson",
+            "das Getränk"
+          ],
+          [
+            "la patate",
+            "die Kartoffel"
+          ],
+          [
+            "le riz",
+            "der Reis"
+          ],
+          [
+            "la courgette",
+            "die Zucchini"
+          ],
+          [
+            "le haricot",
+            "die Bohne"
+          ],
+          [
+            "le poulet",
+            "der Huhn"
+          ],
+          [
+            "le bœuf",
+            "das Rindfleisch"
+          ],
+          [
+            "le porc",
+            "das Schweinefleisch"
+          ],
+          [
+            "la viande",
+            "das Fleisch"
+          ],
+          [
+            "le poisson",
+            "der Fisch"
+          ],
+          [
+            "la sauce",
+            "die Soße"
+          ],
+          [
+            "le jus",
+            "der Saft"
+          ],
+          [
+            "le lait",
+            "das Milch"
+          ],
+          [
+            "le café",
+            "der Kaffee"
+          ]
+        ],
+        [
+          [
+            "le thé",
+            "der Tee"
+          ],
+          [
+            "la bière",
+            "das Bier"
+          ],
+          [
+            "le vin",
+            "der Wein"
+          ],
+          [
+            "le fruit",
+            "die Frucht"
+          ],
+          [
+            "le légume",
+            "das Gemüse"
+          ],
+          [
+            "la céréale",
+            "das Getreide"
+          ],
+          [
+            "la noix",
+            "die Nuss"
+          ],
+          [
+            "le pain",
+            "das Brot"
+          ],
+          [
+            "la farine",
+            "das Mehl"
+          ],
+          [
+            "l'huile",
+            "das Öl"
+          ],
+          [
+            "l'oignon",
+            "die Zwiebel"
+          ],
+          [
+            "l'ail",
+            "der Knoblauch"
+          ],
+          [
+            "le gâteau",
+            "der Kuchen"
+          ],
+          [
+            "le dessert",
+            "der Nachtisch"
+          ],
+          [
+            "le sucre",
+            "der Zucker"
+          ],
+          [
+            "le sel",
+            "das Salz"
+          ],
+          [
+            "le poivre",
+            "der Pfeffer"
+          ],
+          [
+            "la tarte",
+            "der Kuchen"
+          ],
+          [
+            "le sandwich",
+            "das Sandwich"
+          ],
+          [
+            "la frite",
+            "die Fritte"
+          ]
+        ],
+        [
+          [
+            "la pomme",
+            "der Apfel"
+          ],
+          [
+            "la banane",
+            "die Banane"
+          ],
+          [
+            "le raisin",
+            "die Traube"
+          ],
+          [
+            "la soupe",
+            "die Suppe"
+          ],
+          [
+            "la tranche",
+            "die Scheibe"
+          ],
+          [
+            "le saumon",
+            "der Lachs"
+          ],
+          [
+            "la crème",
+            "die Sahne"
+          ],
+          [
+            "l'épice",
+            "das Gewürz"
+          ],
+          [
+            "la nouille",
+            "die Nudel"
+          ],
+          [
+            "la crêpe",
+            "der Pfannkuchen"
+          ]
+        ],
+        [
+          [
+            "le corps",
+            "der Körper"
+          ],
+          [
+            "la tête",
+            "der Kopf"
+          ],
+          [
+            "la peau",
+            "die Haut"
+          ],
+          [
+            "le poil",
+            "das Haar"
+          ],
+          [
+            "le bras",
+            "der Arm"
+          ],
+          [
+            "le doigt",
+            "der Finger"
+          ],
+          [
+            "l'épaule",
+            "die Schulter"
+          ],
+          [
+            "le coude",
+            "der Ellbogen"
+          ],
+          [
+            "le poignet",
+            "das Handgelenk"
+          ],
+          [
+            "le pouce",
+            "der Daumen"
+          ],
+          [
+            "la paume",
+            "die Handfläsche"
+          ],
+          [
+            "le cheveu",
+            "das Haar"
+          ],
+          [
+            "le front",
+            "die Stirn"
+          ],
+          [
+            "le menton",
+            "das Kinn"
+          ],
+          [
+            "la joue",
+            "die Wange"
+          ],
+          [
+            "l'oreille",
+            "das Ohr"
+          ],
+          [
+            "l'œil",
+            "das Auge"
+          ],
+          [
+            "le nez",
+            "die Nase"
+          ],
+          [
+            "la narine",
+            "das Nasenloch"
+          ],
+          [
+            "le sourcil",
+            "die Braue"
+          ]
+        ],
+        [
+          [
+            "le cil",
+            "der Wimper"
+          ],
+          [
+            "la paupière",
+            "das Lid"
+          ],
+          [
+            "la bouche",
+            "der Mund"
+          ],
+          [
+            "la lèvre",
+            "die Lippe"
+          ],
+          [
+            "la dent",
+            "die Zahn"
+          ],
+          [
+            "la langue",
+            "die Zunge"
+          ],
+          [
+            "la gorge",
+            "der Hals"
+          ],
+          [
+            "le cou",
+            "der Nacken"
+          ],
+          [
+            "le nuque",
+            "der Nacken"
+          ],
+          [
+            "le torse",
+            "die Brust"
+          ],
+          [
+            "le dos",
+            "der Rücken"
+          ],
+          [
+            "le ventre",
+            "der Bauch"
+          ],
+          [
+            "le nombril",
+            "der Nabel"
+          ],
+          [
+            "la côte",
+            "das Rippen"
+          ],
+          [
+            "la hanche",
+            "die Hüfte"
+          ],
+          [
+            "le bassin",
+            "das Becken"
+          ],
+          [
+            "la fesse",
+            "die Pobacke"
+          ],
+          [
+            "la jambe",
+            "das Bein"
+          ],
+          [
+            "la cuisse",
+            "der Schenkel"
+          ],
+          [
+            "le mollet",
+            "die Wade"
+          ]
+        ],
+        [
+          [
+            "le genou",
+            "das Knie"
+          ],
+          [
+            "la cheville",
+            "der Knöchel"
+          ],
+          [
+            "le pied",
+            "der Fuß"
+          ],
+          [
+            "l'orteil",
+            "der Zeh"
+          ],
+          [
+            "l'ongle",
+            "der Nagel"
+          ],
+          [
+            "le poumon",
+            "die Lunge"
+          ],
+          [
+            "le cœur",
+            "das Herz"
+          ],
+          [
+            "le cerveau",
+            "das Hirn"
+          ],
+          [
+            "l'os",
+            "der Knochen"
+          ],
+          [
+            "le muscle",
+            "der Muskel"
+          ]
+        ],
+        [
+          [
+            "le mois",
+            "der Monat"
+          ],
+          [
+            "l'année",
+            "das Jahr"
+          ],
+          [
+            "la décennie",
+            "das Jahrzehnt"
+          ],
+          [
+            "le siècle",
+            "das Jahrhundert"
+          ],
+          [
+            "la saison",
+            "die Jahreszeit"
+          ],
+          [
+            "la période",
+            "die Zeit"
+          ],
+          [
+            "la durée",
+            "die Dauer"
+          ],
+          [
+            "le jour",
+            "der Tag"
+          ],
+          [
+            "la nuit",
+            "die Nacht"
+          ],
+          [
+            "le matin",
+            "der Morgen"
+          ],
+          [
+            "l'après-midi",
+            "der Nachmittag"
+          ],
+          [
+            "le soir",
+            "der Abend"
+          ],
+          [
+            "le temps",
+            "die Zeit"
+          ],
+          [
+            "le présent",
+            "die Gegenwart"
+          ],
+          [
+            "le futur",
+            "die Zukunft"
+          ],
+          [
+            "l'heure",
+            "die Stunde"
+          ],
+          [
+            "la minute",
+            "die Minute"
+          ],
+          [
+            "la seconde",
+            "die Sekunde"
+          ],
+          [
+            "la semaine",
+            "die Woche"
+          ],
+          [
+            "le passé",
+            "die Vergangenheit"
+          ]
+        ],
+        [
+          [
+            "le lundi",
+            "der Montag"
+          ],
+          [
+            "le mardi",
+            "der Dienstag"
+          ],
+          [
+            "le mercredi",
+            "der Mittwoch"
+          ],
+          [
+            "le jeudi",
+            "der Donnerstag"
+          ],
+          [
+            "le vendredi",
+            "der Freitag"
+          ],
+          [
+            "le samedi",
+            "der Samstag"
+          ],
+          [
+            "le dimanche",
+            "der Sonntag"
+          ],
+          [
+            "janvier",
+            "Januar"
+          ],
+          [
+            "février",
+            "Februar"
+          ],
+          [
+            "mars",
+            "März"
+          ],
+          [
+            "avril",
+            "April"
+          ],
+          [
+            "mai",
+            "Mai"
+          ],
+          [
+            "juin",
+            "Juni"
+          ],
+          [
+            "juillet",
+            "Juli"
+          ],
+          [
+            "août",
+            "August"
+          ],
+          [
+            "septembre",
+            "September"
+          ],
+          [
+            "octobre",
+            "Oktober"
+          ],
+          [
+            "novembre",
+            "November"
+          ],
+          [
+            "décembre",
+            "Dezember"
+          ]
+        ],
+        [
+          [
+            "maintenant",
+            "jetzt"
+          ],
+          [
+            "plus tard",
+            "später"
+          ],
+          [
+            "hier",
+            "gestern"
+          ],
+          [
+            "aujoud'hui",
+            "heute"
+          ],
+          [
+            "demain",
+            "morgen"
+          ],
+          [
+            "double",
+            "doppel"
+          ],
+          [
+            "le triple",
+            "dreifach"
+          ],
+          [
+            "la moitié",
+            "die Hälfte"
+          ],
+          [
+            "le quart",
+            "das Viertel"
+          ],
+          [
+            "la partie",
+            "der Teil"
+          ],
+          [
+            "tout",
+            "ganze"
+          ]
+        ],
+        [
+          [
+            "habiter",
+            "wohnen"
+          ],
+          [
+            "s'appeler",
+            "heißen"
+          ],
+          [
+            "aller, se porter",
+            "gehen"
+          ],
+          [
+            "cuire",
+            "kochen"
+          ],
+          [
+            "dormir",
+            "schlafen"
+          ],
+          [
+            "connaître",
+            "kennen"
+          ],
+          [
+            "sentir",
+            "fühlen"
+          ],
+          [
+            "tomber",
+            "fallen"
+          ],
+          [
+            "aimer (bien)",
+            "mögen"
+          ],
+          [
+            "détester",
+            "hassen"
+          ],
+          [
+            "prévoir",
+            "vorsehen"
+          ],
+          [
+            "attendre",
+            "warten"
+          ],
+          [
+            "demander (question)",
+            "fragen"
+          ],
+          [
+            "pleuvoir",
+            "regnen"
+          ],
+          [
+            "neiger",
+            "schneien"
+          ],
+          [
+            "couler",
+            "fließen"
+          ],
+          [
+            "essuyer",
+            "wischen"
+          ],
+          [
+            "lancer",
+            "werfen"
+          ],
+          [
+            "jeter",
+            "werfen"
+          ],
+          [
+            "cliquer",
+            "klicken"
+          ]
+        ],
+        [
+          [
+            "il habite",
+            "er wohnt"
+          ],
+          [
+            "il s'appelle",
+            "er heißt"
+          ],
+          [
+            "il va, se porte",
+            "er geht"
+          ],
+          [
+            "il cuit",
+            "er kocht"
+          ],
+          [
+            "il dort",
+            "er schläft"
+          ],
+          [
+            "il connaît",
+            "er kennt"
+          ],
+          [
+            "il sent",
+            "er fühlt"
+          ],
+          [
+            "il tombe",
+            "er fällt"
+          ],
+          [
+            "il aime (bien)",
+            "er mag"
+          ],
+          [
+            "il déteste",
+            "er hasst"
+          ],
+          [
+            "il prévoit",
+            "er sieht vor"
+          ],
+          [
+            "il attend",
+            "er wartet"
+          ],
+          [
+            "il demande",
+            "er fragt"
+          ],
+          [
+            "il pleut",
+            "es regnet"
+          ],
+          [
+            "il neige",
+            "es schneit"
+          ],
+          [
+            "il coule",
+            "er fließt"
+          ],
+          [
+            "il essuie",
+            "er wischt"
+          ],
+          [
+            "il lance",
+            "er wirft"
+          ],
+          [
+            "il jette",
+            "er wirft"
+          ],
+          [
+            "il clique",
+            "er klickt"
+          ]
+        ],
+        [
+          [
+            "ouvrir",
+            "öffnen"
+          ],
+          [
+            "fermer",
+            "schließen"
+          ],
+          [
+            "verrouiller",
+            "sperren"
+          ],
+          [
+            "appuyer",
+            "drücken"
+          ],
+          [
+            "rêver",
+            "träumen"
+          ],
+          [
+            "frapper",
+            "schlagen"
+          ],
+          [
+            "voler (en l'air)",
+            "fliegen"
+          ],
+          [
+            "casser",
+            "brechen"
+          ],
+          [
+            "réparer",
+            "reparieren"
+          ],
+          [
+            "poser",
+            "stellen"
+          ],
+          [
+            "sourire",
+            "lächeln"
+          ],
+          [
+            "rire",
+            "lachen"
+          ],
+          [
+            "pleurer",
+            "weinen"
+          ],
+          [
+            "proposer",
+            "bieten"
+          ],
+          [
+            "recevoir",
+            "erhalten"
+          ],
+          [
+            "construire",
+            "bauen"
+          ],
+          [
+            "se reposer",
+            "ruhen"
+          ],
+          [
+            "enlever",
+            "entfernen"
+          ],
+          [
+            "vider",
+            "leeren"
+          ],
+          [
+            "remplir",
+            "füllen"
+          ]
+        ],
+        [
+          [
+            "il ouvre",
+            "er öffnet"
+          ],
+          [
+            "il ferme",
+            "er schließt"
+          ],
+          [
+            "il verrouille",
+            "er sperrt"
+          ],
+          [
+            "il appuie",
+            "er drückt"
+          ],
+          [
+            "il rêve",
+            "er träumt"
+          ],
+          [
+            "il frappe",
+            "er schlägt"
+          ],
+          [
+            "il vole (en l'air)",
+            "er fliegt"
+          ],
+          [
+            "il casse",
+            "er bricht"
+          ],
+          [
+            "il répare",
+            "er repariert"
+          ],
+          [
+            "il pose",
+            "er stellt"
+          ],
+          [
+            "il sourit",
+            "er lächelt"
+          ],
+          [
+            "il rit",
+            "er lacht"
+          ],
+          [
+            "il pleure",
+            "er weint"
+          ],
+          [
+            "il propose",
+            "er bietet"
+          ],
+          [
+            "il reçoit",
+            "er erhält"
+          ],
+          [
+            "il construit",
+            "er baut"
+          ],
+          [
+            "il se repose",
+            "er ruht"
+          ],
+          [
+            "il enlève",
+            "er entfernt"
+          ],
+          [
+            "il vide",
+            "er leert"
+          ],
+          [
+            "il remplit",
+            "er füllt"
+          ]
+        ],
+        [
+          [
+            "vérifier",
+            "prüfen"
+          ],
+          [
+            "lire",
+            "lesen"
+          ],
+          [
+            "écrire",
+            "schreiben"
+          ],
+          [
+            "réserver",
+            "buchen"
+          ],
+          [
+            "jouer",
+            "spielen"
+          ],
+          [
+            "s'entraîner",
+            "trainieren"
+          ],
+          [
+            "chanter",
+            "singen"
+          ],
+          [
+            "danser",
+            "tanzen"
+          ],
+          [
+            "s'inscrire",
+            "registrieren"
+          ],
+          [
+            "participer",
+            "teilnehmen"
+          ],
+          [
+            "aimer (amour)",
+            "lieben"
+          ],
+          [
+            "paraître",
+            "scheinen"
+          ],
+          [
+            "ressembler",
+            "ähneln"
+          ],
+          [
+            "oublier",
+            "vergessen"
+          ],
+          [
+            "se souvenir",
+            "sich erinnern"
+          ],
+          [
+            "faire connaissance, se rencontrer",
+            "kennenlernen"
+          ],
+          [
+            "se retrouver, recontrer",
+            "treffen"
+          ],
+          [
+            "découvrir",
+            "entdecken"
+          ],
+          [
+            "s'exercer",
+            "üben"
+          ],
+          [
+            "classer",
+            "einstufen"
+          ]
+        ],
+        [
+          [
+            "il vérifie",
+            "er prüft"
+          ],
+          [
+            "il lit",
+            "er liest"
+          ],
+          [
+            "il écrit",
+            "er schreibt"
+          ],
+          [
+            "il réserve",
+            "er bucht"
+          ],
+          [
+            "il joue",
+            "er spielt"
+          ],
+          [
+            "il s'entraîne",
+            "er trainiert"
+          ],
+          [
+            "il chante",
+            "er singt"
+          ],
+          [
+            "il danse",
+            "er tanzt"
+          ],
+          [
+            "il s'inscrit",
+            "er registriert"
+          ],
+          [
+            "il participe",
+            "er nimmt teil"
+          ],
+          [
+            "il aime",
+            "er liebt"
+          ],
+          [
+            "il paraît",
+            "er scheint"
+          ],
+          [
+            "il ressemble",
+            "er ähnelt"
+          ],
+          [
+            "il oublie",
+            "er vergisst"
+          ],
+          [
+            "il se rappelle",
+            "er erinnert sich"
+          ],
+          [
+            "il fait connaissance",
+            "er kennenlernt"
+          ],
+          [
+            "il se retrouve",
+            "er trifft"
+          ],
+          [
+            "il découvre",
+            "er entdeckt"
+          ],
+          [
+            "il s'exerce",
+            "er übt"
+          ],
+          [
+            "il classe",
+            "er stuft ein"
+          ]
+        ],
+        [
+          [
+            "devoir (futur, intention)",
+            "sollen"
+          ],
+          [
+            "tenir compte de",
+            "berücksichtigen"
+          ],
+          [
+            "suivre",
+            "folgen"
+          ],
+          [
+            "s'ensuivre",
+            "erfolgen"
+          ],
+          [
+            "prendre de",
+            "entnehmen"
+          ],
+          [
+            "guider, diriger",
+            "führen"
+          ],
+          [
+            "mentionner",
+            "angeführen"
+          ],
+          [
+            "changer",
+            "ändern"
+          ],
+          [
+            "modifier",
+            "verändern"
+          ],
+          [
+            "servir à",
+            "dienen"
+          ],
+          [
+            "traiter",
+            "behandeln"
+          ],
+          [
+            "télécharger",
+            "herunterladen"
+          ],
+          [
+            "mettre en ligne",
+            "hochladen"
+          ],
+          [
+            "décrire",
+            "beschreiben"
+          ],
+          [
+            "aller à, convenir",
+            "passen"
+          ],
+          [
+            "adapter",
+            "anpassen"
+          ],
+          [
+            "utiliser",
+            "verwenden"
+          ],
+          [
+            "refuser",
+            "ablehnen"
+          ],
+          [
+            "autoriser",
+            "erlauben"
+          ],
+          [
+            "interpréter",
+            "vortragen"
+          ]
+        ],
+        [
+          [
+            "il doit (futur)",
+            "er soll"
+          ],
+          [
+            "il tient compte de",
+            "er berücksichtigt"
+          ],
+          [
+            "il suit",
+            "er folgt"
+          ],
+          [
+            "il s'ensuit",
+            "er erfolgt"
+          ],
+          [
+            "il prend de",
+            "er entnimmt"
+          ],
+          [
+            "il guide, dirige",
+            "er führt"
+          ],
+          [
+            "il mentionne",
+            "er angeführt"
+          ],
+          [
+            "il change",
+            "er ändert"
+          ],
+          [
+            "il modifie",
+            "er verändert"
+          ],
+          [
+            "il sert à",
+            "er dient"
+          ],
+          [
+            "il traite",
+            "er behandelt"
+          ],
+          [
+            "il télécharge",
+            "er lädt herunter"
+          ],
+          [
+            "il met en ligne",
+            "er lädt hoch"
+          ],
+          [
+            "il décrit",
+            "er beschreibt"
+          ],
+          [
+            "il va à, convient",
+            "er passt"
+          ],
+          [
+            "il adapte",
+            "er anpasst"
+          ],
+          [
+            "il utilise",
+            "er verwendet"
+          ],
+          [
+            "il refuse",
+            "er lehnt ab"
+          ],
+          [
+            "il autorise",
+            "er erlaubt"
+          ],
+          [
+            "il interprète",
+            "er trägt vor"
+          ]
+        ],
+        [
+          [
+            "exposer, expliquer",
+            "auslegen"
+          ],
+          [
+            "parcourir",
+            "ablaufen"
+          ],
+          [
+            "suffire",
+            "ausreichen"
+          ],
+          [
+            "présenter",
+            "vorstellen"
+          ],
+          [
+            "aider",
+            "helfen"
+          ],
+          [
+            "paresser",
+            "faulenzen"
+          ],
+          [
+            "surprendre",
+            "überraschen"
+          ],
+          [
+            "coûter",
+            "kosten"
+          ],
+          [
+            "naître",
+            "entstehen"
+          ],
+          [
+            "tenir",
+            "halten"
+          ],
+          [
+            "dessiner",
+            "zeichnen"
+          ],
+          [
+            "peindre (art)",
+            "bemalen"
+          ],
+          [
+            "pendre",
+            "hängen"
+          ],
+          [
+            "tuer",
+            "töten"
+          ],
+          [
+            "blesser",
+            "verletzen"
+          ],
+          [
+            "se marier, épouser",
+            "heiraten"
+          ],
+          [
+            "signifier",
+            "bedeuten"
+          ],
+          [
+            "polir, aiguiser",
+            "schleifen"
+          ],
+          [
+            "croiser",
+            "kreuzen"
+          ],
+          [
+            "cocher",
+            "ankreuzen"
+          ]
+        ],
+        [
+          [
+            "il expose, explique",
+            "er legt aus"
+          ],
+          [
+            "il parcourt",
+            "er läuft ab"
+          ],
+          [
+            "il suffit",
+            "er reicht aus"
+          ],
+          [
+            "il présente",
+            "er stellt vor"
+          ],
+          [
+            "il aide",
+            "er hilft"
+          ],
+          [
+            "il paresse",
+            "er faulenzt"
+          ],
+          [
+            "il surprend",
+            "er überrascht"
+          ],
+          [
+            "il coûte",
+            "er kostet"
+          ],
+          [
+            "il naît",
+            "er entsteht"
+          ],
+          [
+            "il tient",
+            "er hält"
+          ],
+          [
+            "il dessine",
+            "er zeichnet"
+          ],
+          [
+            "il peint (art)",
+            "er bemalt"
+          ],
+          [
+            "il pend",
+            "er hängt"
+          ],
+          [
+            "il tue",
+            "er tötet"
+          ],
+          [
+            "il blesse",
+            "er verletzt"
+          ],
+          [
+            "il se marie, épouse",
+            "er heiratet"
+          ],
+          [
+            "il signifie",
+            "er bedeutet"
+          ],
+          [
+            "il polit, aiguise",
+            "er schleift"
+          ],
+          [
+            "il croise",
+            "er kreuzt"
+          ],
+          [
+            "il coche",
+            "er kreuzt an"
+          ]
+        ],
+        [
+          [
+            "l'animal",
+            "das Tier"
+          ],
+          [
+            "le chien",
+            "der Hund"
+          ],
+          [
+            "le chat",
+            "die Katze"
+          ],
+          [
+            "le lapin",
+            "das Kaninchen"
+          ],
+          [
+            "le cheval",
+            "das Pferd"
+          ],
+          [
+            "l'âne",
+            "der Esel"
+          ],
+          [
+            "la vache",
+            "die Kuh"
+          ],
+          [
+            "le cochon",
+            "das Schwein"
+          ],
+          [
+            "le mouton",
+            "das Schaf"
+          ],
+          [
+            "la chèvre",
+            "die Ziege"
+          ],
+          [
+            "le taureau",
+            "der Stier"
+          ],
+          [
+            "le cerf",
+            "der Hirsch"
+          ],
+          [
+            "le loup",
+            "der Wolf"
+          ],
+          [
+            "le renard",
+            "der Fuchs"
+          ],
+          [
+            "la souris",
+            "die Maus"
+          ],
+          [
+            "le rat",
+            "die Ratte"
+          ],
+          [
+            "la mouche",
+            "die Fliege"
+          ],
+          [
+            "la fourmi",
+            "die Ameise"
+          ],
+          [
+            "le papillon",
+            "der Schmetterling"
+          ],
+          [
+            "le moustique",
+            "der Moskito"
+          ],
+          [
+            "le corbeau",
+            "der Rabe"
+          ],
+          [
+            "le moineau",
+            "der Spatz"
+          ],
+          [
+            "l'aigle",
+            "der Adler"
+          ],
+          [
+            "le vautour",
+            "der Geier"
+          ],
+          [
+            "le serpent",
+            "die Schlange"
+          ],
+          [
+            "le lézard",
+            "die Eidechse"
+          ],
+          [
+            "la grenouille",
+            "der Frosch"
+          ],
+          [
+            "le poisson",
+            "der Fisch"
+          ],
+          [
+            "la baleine",
+            "der Wal"
+          ],
+          [
+            "le requin",
+            "der Hai"
+          ]
+        ],
+        [
+          [
+            "l'escargot",
+            "die Schnecke"
+          ],
+          [
+            "la limace",
+            "die Schnecke"
+          ],
+          [
+            "le ver",
+            "der Wurm"
+          ],
+          [
+            "l'araignée",
+            "die Spinne"
+          ],
+          [
+            "le scarabée",
+            "der Pillendreher"
+          ],
+          [
+            "la sauterelle",
+            "die Heurschrecke"
+          ],
+          [
+            "la chenille",
+            "die Raupe"
+          ],
+          [
+            "l'abeille",
+            "die Biene"
+          ],
+          [
+            "la guêpe",
+            "die Wespe"
+          ],
+          [
+            "l'élephant",
+            "der Elefant"
+          ],
+          [
+            "la girafe",
+            "die Giraffe"
+          ],
+          [
+            "le rhinocéros",
+            "das Nashorn"
+          ],
+          [
+            "l'hippopotame",
+            "das Nilpferd"
+          ],
+          [
+            "le lion",
+            "der Löwe"
+          ],
+          [
+            "le tigre",
+            "der Tiger"
+          ],
+          [
+            "l'ours",
+            "der Bär"
+          ],
+          [
+            "l'oiseau",
+            "der Vogel"
+          ],
+          [
+            "le pigeon",
+            "die Taube"
+          ],
+          [
+            "le canard",
+            "die Ente"
+          ],
+          [
+            "l'oie",
+            "die Gans"
+          ]
+        ],
+        [
+          [
+            "le corbeau",
+            "der Rabe"
+          ],
+          [
+            "le moineau",
+            "der Spatz"
+          ],
+          [
+            "l'aigle",
+            "der Adler"
+          ],
+          [
+            "le vautour",
+            "der Geier"
+          ],
+          [
+            "le serpent",
+            "die Schlange"
+          ],
+          [
+            "le lézard",
+            "die Eidechse"
+          ],
+          [
+            "la grenouille",
+            "der Frosch"
+          ],
+          [
+            "le poisson",
+            "der Fisch"
+          ],
+          [
+            "la baleine",
+            "der Wal"
+          ],
+          [
+            "le requin",
+            "der Hai"
+          ]
+        ],
+        [
+          [
+            "l'homme",
+            "der Mann"
+          ],
+          [
+            "la femme",
+            "die Frau"
+          ],
+          [
+            "l'enfant",
+            "das Kind"
+          ],
+          [
+            "le garçon",
+            "der Junge"
+          ],
+          [
+            "la fille",
+            "das Mädchen"
+          ],
+          [
+            "le père",
+            "der Vater"
+          ],
+          [
+            "la mère",
+            "die Mutter"
+          ],
+          [
+            "le fils",
+            "der Sohn"
+          ],
+          [
+            "la fille (de ses parents)",
+            "die Tochter"
+          ],
+          [
+            "le frère",
+            "der Bruder"
+          ],
+          [
+            "la sœur",
+            "die Schwester"
+          ],
+          [
+            "le grand-père",
+            "der Großvater"
+          ],
+          [
+            "la grand-mère",
+            "die Großmutter"
+          ],
+          [
+            "le mari",
+            "der Ehemann"
+          ],
+          [
+            "le veuf",
+            "der Witwer"
+          ],
+          [
+            "la personne",
+            "das Person"
+          ],
+          [
+            "l'oncle",
+            "der Onkel"
+          ],
+          [
+            "la tante",
+            "die Tante"
+          ],
+          [
+            "le cousin",
+            "der Cousin"
+          ],
+          [
+            "la cousine",
+            "die Kusine"
+          ]
+        ],
+        [
+          [
+            "le neveu",
+            "der Neffe"
+          ],
+          [
+            "la nièce",
+            "die Nichte"
+          ],
+          [
+            "l'ami",
+            "der Freund"
+          ],
+          [
+            "l'ennemi",
+            "der Feind"
+          ],
+          [
+            "le camarade",
+            "der Kamarad"
+          ],
+          [
+            "le parent",
+            "der Verwandte"
+          ],
+          [
+            "les parents",
+            "die Eltern"
+          ],
+          [
+            "les frères et sœurs",
+            "die Geschwister"
+          ],
+          [
+            "personne",
+            "niemand"
+          ],
+          [
+            "les gens",
+            "die Leute"
+          ],
+          [
+            "l'humain",
+            "der Mensch"
+          ],
+          [
+            "le petit-fils",
+            "der Enkel"
+          ],
+          [
+            "la petite-fille",
+            "die Enkelin"
+          ],
+          [
+            "le petit ami",
+            "der Freund"
+          ],
+          [
+            "la petite amie",
+            "die Freundin"
+          ],
+          [
+            "le monsieur",
+            "der Herr"
+          ],
+          [
+            "la dame",
+            "die Dame"
+          ],
+          [
+            "le voyageur",
+            "der Reisende"
+          ],
+          [
+            "le patron",
+            "der Arbeitgeber"
+          ],
+          [
+            "l'employé",
+            "der Angestellte"
+          ]
+        ],
+        [
+          [
+            "la connaissance (personne)",
+            "der Bekannte"
+          ],
+          [
+            "le collègue",
+            "der Kollege"
+          ],
+          [
+            "l'élève",
+            "der Schüler"
+          ],
+          [
+            "l'étudiant",
+            "der Student"
+          ],
+          [
+            "le professeur",
+            "der Professor"
+          ],
+          [
+            "le docteur",
+            "der Artz"
+          ],
+          [
+            "le locataire",
+            "der Mieter"
+          ],
+          [
+            "le propriétaire",
+            "der Eigentümer"
+          ],
+          [
+            "le meilleur",
+            "der Beste"
+          ],
+          [
+            "le pire",
+            "das Schlimmste"
+          ],
+          [
+            "l'organisation",
+            "die Organisation"
+          ],
+          [
+            "le rendez-vous",
+            "der Termin"
+          ],
+          [
+            "le message",
+            "die Nachricht"
+          ],
+          [
+            "la discussion",
+            "die Diskussion"
+          ],
+          [
+            "la vue",
+            "die Sicht"
+          ],
+          [
+            "la date",
+            "das Datum"
+          ],
+          [
+            "l'étape, niveau, marche",
+            "die Stufe"
+          ],
+          [
+            "la compétence",
+            "die Kompetenz"
+          ],
+          [
+            "l'information",
+            "die Information"
+          ],
+          [
+            "la déclaration, information",
+            "die Meldung"
+          ]
+        ],
+        [
+          [
+            "l'inscription",
+            "die Anmeldung"
+          ],
+          [
+            "le dessin",
+            "die Zeichnung"
+          ],
+          [
+            "l'enregistrement",
+            "die Aufzeichnung"
+          ],
+          [
+            "la réunion",
+            "die Besprechung"
+          ],
+          [
+            "la consultation",
+            "die Beratung"
+          ],
+          [
+            "l'exemple",
+            "das Beispiel"
+          ],
+          [
+            "le jeu",
+            "das Spiel"
+          ],
+          [
+            "l'utilisation",
+            "die Verwendung"
+          ],
+          [
+            "l'offre, choix",
+            "das Angebot"
+          ],
+          [
+            "la méthode",
+            "die Methode"
+          ],
+          [
+            "le projet",
+            "das Projekt"
+          ],
+          [
+            "le magasin",
+            "der Laden"
+          ],
+          [
+            "le cycle",
+            "der Zyklus"
+          ],
+          [
+            "la couleur",
+            "die Farbe"
+          ],
+          [
+            "la liste",
+            "die Liste"
+          ],
+          [
+            "la croix",
+            "das Kreuz"
+          ],
+          [
+            "la vidéo",
+            "das Video"
+          ],
+          [
+            "le problème",
+            "das Problem"
+          ],
+          [
+            "la chute",
+            "der Fall"
+          ],
+          [
+            "le cas",
+            "der Fall"
+          ]
+        ],
+        [
+          [
+            "la position, situation",
+            "die Lage"
+          ],
+          [
+            "le modèle",
+            "die Vorlage"
+          ],
+          [
+            "l'île",
+            "die Insel"
+          ],
+          [
+            "le vote",
+            "die Abstimmung"
+          ],
+          [
+            "le livre",
+            "das Buch"
+          ],
+          [
+            "le mode",
+            "der Modus"
+          ],
+          [
+            "l'indication",
+            "der Hinweis"
+          ],
+          [
+            "la lumière",
+            "das Licht"
+          ],
+          [
+            "le devoir",
+            "die Pflicht"
+          ],
+          [
+            "la nature, charactère",
+            "das Wesen"
+          ],
+          [
+            "la propriété",
+            "das Anwesen"
+          ],
+          [
+            "la présence",
+            "die Anwesenheit"
+          ],
+          [
+            "la réservation",
+            "die Reservierung"
+          ],
+          [
+            "le nom",
+            "der Name"
+          ],
+          [
+            "la clé",
+            "der Schlüssel"
+          ],
+          [
+            "le séjour",
+            "der Aufenthalt"
+          ],
+          [
+            "le cinéma",
+            "das Kino"
+          ],
+          [
+            "la surprise",
+            "die Überraschung"
+          ],
+          [
+            "le souhait",
+            "der Wunsch"
+          ],
+          [
+            "l'hôtel",
+            "das Hotel"
+          ]
+        ],
+        [
+          [
+            "la gauche",
+            "die Linke"
+          ],
+          [
+            "la droite",
+            "die Rechte"
+          ],
+          [
+            "l'angle",
+            "der Winkel"
+          ],
+          [
+            "la condition",
+            "die Bedingung"
+          ],
+          [
+            "la caractéristique",
+            "das Kennzeichen"
+          ],
+          [
+            "le signe",
+            "das Zeichen"
+          ],
+          [
+            "l'instant",
+            "der Moment"
+          ],
+          [
+            "le point",
+            "der Punkt"
+          ],
+          [
+            "la signature",
+            "die Unterschrift"
+          ],
+          [
+            "le départ",
+            "die Abreise"
+          ],
+          [
+            "l'arrivée",
+            "die Ankunft"
+          ],
+          [
+            "le code postal",
+            "die Postleitzahl"
+          ],
+          [
+            "le nombre",
+            "die Zahl"
+          ],
+          [
+            "le besoin",
+            "das Bedürfnis"
+          ],
+          [
+            "l'envie",
+            "die Lust"
+          ],
+          [
+            "la chagrin",
+            "der Kummer"
+          ],
+          [
+            "la douleur",
+            "der Schmerz"
+          ],
+          [
+            "la joie, le plaisir",
+            "die Freude"
+          ],
+          [
+            "la tristesse",
+            "die Traurigkeit"
+          ],
+          [
+            "la fierté",
+            "der Stolz"
+          ]
+        ],
+        [
+          [
+            "l'honneur",
+            "die Ehre"
+          ],
+          [
+            "la honte",
+            "die Scham"
+          ],
+          [
+            "le divorce",
+            "die Scheidung"
+          ],
+          [
+            "le mariage",
+            "die Heirat"
+          ],
+          [
+            "le métier",
+            "der Beruf"
+          ],
+          [
+            "la famille",
+            "die Familie"
+          ],
+          [
+            "la nationalité",
+            "die Staatsangehörigkeit"
+          ],
+          [
+            "le prénom",
+            "der Vorname"
+          ],
+          [
+            "le nom de famille",
+            "der Nachname"
+          ],
+          [
+            "le lieu",
+            "der Ort"
+          ],
+          [
+            "l'erreur",
+            "der Fehler"
+          ],
+          [
+            "la réussite, le succès",
+            "der Erfolg"
+          ],
+          [
+            "le classement",
+            "der Rang"
+          ],
+          [
+            "le fichier",
+            "die Kartei"
+          ],
+          [
+            "le dossier",
+            "die Akte"
+          ],
+          [
+            "le réseau",
+            "das Netz"
+          ],
+          [
+            "la connexion",
+            "die Verbindung"
+          ],
+          [
+            "le logiciel",
+            "die Software"
+          ],
+          [
+            "la description",
+            "die Beschreibung"
+          ],
+          [
+            "la présentation",
+            "die Erscheinung"
+          ]
+        ],
+        [
+          [
+            "l'aide",
+            "die Hilfe"
+          ],
+          [
+            "la fatigue",
+            "die Müdigkeit"
+          ],
+          [
+            "l'énergie",
+            "die Energie"
+          ],
+          [
+            "le sommeil",
+            "der Schlaf"
+          ],
+          [
+            "la fois",
+            "das Mal"
+          ],
+          [
+            "le formulaire",
+            "das Formular"
+          ],
+          [
+            "la naissance",
+            "die Geburt"
+          ],
+          [
+            "l'arrêt",
+            "der Halt"
+          ],
+          [
+            "la santé",
+            "die Gesundheit"
+          ],
+          [
+            "l'hôpital",
+            "das Krankenhaus"
+          ]
         ]
       ]
     },
@@ -3244,6 +6156,2898 @@
           [
             "aussi",
             "tiež"
+          ]
+        ],
+        [
+          [
+            "zéro",
+            "nula"
+          ],
+          [
+            "un",
+            "jeden"
+          ],
+          [
+            "deux",
+            "dva"
+          ],
+          [
+            "trois",
+            "tri"
+          ],
+          [
+            "quatre",
+            "štyri"
+          ],
+          [
+            "cinq",
+            "päť"
+          ],
+          [
+            "six",
+            "šesť"
+          ],
+          [
+            "sept",
+            "sedem"
+          ],
+          [
+            "huit",
+            "osem"
+          ],
+          [
+            "neuf",
+            "deväť"
+          ],
+          [
+            "dix",
+            "desať"
+          ],
+          [
+            "onze",
+            "jedenásť"
+          ],
+          [
+            "douze",
+            "dvanásť"
+          ],
+          [
+            "treize",
+            "trinásť"
+          ],
+          [
+            "quatorze",
+            "štrnásť"
+          ],
+          [
+            "quinze",
+            "päťnásť"
+          ],
+          [
+            "seize",
+            "šestnásť"
+          ],
+          [
+            "dix-sept",
+            "sedemnásť"
+          ],
+          [
+            "dix-huit",
+            "osemnásť"
+          ],
+          [
+            "dix-neuf",
+            "deväťnásť"
+          ]
+        ],
+        [
+          [
+            "vingt",
+            "dvadsať"
+          ],
+          [
+            "trente",
+            "tridsať"
+          ],
+          [
+            "quarante",
+            "štyridsať"
+          ],
+          [
+            "cinquante",
+            "päťdesiat"
+          ],
+          [
+            "soixante",
+            "šesťdesiat"
+          ],
+          [
+            "soixante-dix",
+            "sedemdesiat"
+          ],
+          [
+            "quatre-vingts",
+            "osemdesiat"
+          ],
+          [
+            "quatre-vingts-dix",
+            "deväťdesiat"
+          ],
+          [
+            "cent",
+            "sto"
+          ],
+          [
+            "deux-cents",
+            "dvesto"
+          ],
+          [
+            "trois-cents",
+            "tristo"
+          ],
+          [
+            "mille",
+            "tisíc"
+          ],
+          [
+            "deux-mille",
+            "dvetisíc"
+          ],
+          [
+            "trois-mille",
+            "tritisíc"
+          ],
+          [
+            "dix-mille",
+            "desaťtisíc"
+          ],
+          [
+            "cent mille",
+            "stotisíc"
+          ],
+          [
+            "un million",
+            "milión"
+          ],
+          [
+            "un milliard",
+            "miliarda"
+          ],
+          [
+            "zérotième",
+            "nulté"
+          ],
+          [
+            "premier",
+            "prvé"
+          ]
+        ],
+        [
+          [
+            "deuxième",
+            "druhé"
+          ],
+          [
+            "troisième",
+            "treté"
+          ],
+          [
+            "quatrième",
+            "štvrté"
+          ],
+          [
+            "cinquième",
+            "piate"
+          ],
+          [
+            "sixième",
+            "šieste"
+          ],
+          [
+            "septième",
+            "siedme"
+          ],
+          [
+            "huitième",
+            "ôsme"
+          ],
+          [
+            "neuvième",
+            "deviate"
+          ],
+          [
+            "dixième",
+            "desiate"
+          ],
+          [
+            "onzième",
+            "jedenáste"
+          ]
+        ],
+        [
+          [
+            "chaud",
+            "horúcy"
+          ],
+          [
+            "froid",
+            "chladný"
+          ],
+          [
+            "bon",
+            "dobrý"
+          ],
+          [
+            "mauvais",
+            "zlý"
+          ],
+          [
+            "grand",
+            "veľký"
+          ],
+          [
+            "petit",
+            "malý"
+          ],
+          [
+            "long",
+            "dlhý"
+          ],
+          [
+            "court",
+            "krátky"
+          ],
+          [
+            "haut",
+            "vysoký"
+          ],
+          [
+            "bas",
+            "nízky"
+          ],
+          [
+            "joli",
+            "pekný"
+          ],
+          [
+            "beau",
+            "krásny"
+          ],
+          [
+            "nouveau",
+            "nový"
+          ],
+          [
+            "vieux",
+            "starý"
+          ],
+          [
+            "moderne",
+            "moderný"
+          ],
+          [
+            "moche",
+            "škaredý"
+          ],
+          [
+            "bizarre",
+            "zvláštny"
+          ],
+          [
+            "normal",
+            "normálny"
+          ],
+          [
+            "dur",
+            "tvrdý"
+          ],
+          [
+            "mou",
+            "mäkký"
+          ]
+        ],
+        [
+          [
+            "agréable",
+            "príjemný"
+          ],
+          [
+            "désagéable",
+            "nepríjemný"
+          ],
+          [
+            "propre",
+            "čistý"
+          ],
+          [
+            "sale",
+            "špinavý"
+          ],
+          [
+            "lumineux",
+            "svetlý"
+          ],
+          [
+            "sombre",
+            "tmavý"
+          ],
+          [
+            "douloureux",
+            "bolestivý"
+          ],
+          [
+            "content",
+            "šťastný"
+          ],
+          [
+            "triste",
+            "smutný"
+          ],
+          [
+            "divertissant",
+            "zábavný"
+          ],
+          [
+            "drôle",
+            "vtipný"
+          ],
+          [
+            "intéressant",
+            "zaujímavý"
+          ],
+          [
+            "spécial",
+            "špeciálny"
+          ],
+          [
+            "ordinaire",
+            "obyčajný"
+          ],
+          [
+            "cher",
+            "drahý"
+          ],
+          [
+            "pas cher",
+            "lacný"
+          ],
+          [
+            "écologique",
+            "ekologický"
+          ],
+          [
+            "frais",
+            "čerstvý"
+          ],
+          [
+            "pourri",
+            "zhnitý"
+          ],
+          [
+            "blanc",
+            "biely"
+          ]
+        ],
+        [
+          [
+            "jaune",
+            "žltý"
+          ],
+          [
+            "bleu",
+            "modrý"
+          ],
+          [
+            "vert",
+            "zelený"
+          ],
+          [
+            "noir",
+            "čierny"
+          ],
+          [
+            "rouge",
+            "červený"
+          ],
+          [
+            "rose",
+            "ružový"
+          ],
+          [
+            "orange",
+            "oranžový"
+          ],
+          [
+            "violet",
+            "fialový"
+          ],
+          [
+            "gris",
+            "sivý"
+          ],
+          [
+            "marron",
+            "hnedý"
+          ],
+          [
+            "anonyme",
+            "anonymný"
+          ],
+          [
+            "semblable",
+            "podobný"
+          ],
+          [
+            "commun, collectif",
+            "spoločný"
+          ],
+          [
+            "suivant, prochain",
+            "ďaľší"
+          ],
+          [
+            "loin",
+            "ďaleko"
+          ],
+          [
+            "requis",
+            "požadovaný"
+          ],
+          [
+            "permanent",
+            "stály"
+          ],
+          [
+            "complet",
+            "úplný"
+          ],
+          [
+            "nécessaire",
+            "potrebný"
+          ],
+          [
+            "fréquent",
+            "častný"
+          ]
+        ],
+        [
+          [
+            "sage",
+            "múdry"
+          ],
+          [
+            "autre",
+            "iný"
+          ],
+          [
+            "libre",
+            "slobodný"
+          ],
+          [
+            "la volonté",
+            "vôľa"
+          ],
+          [
+            "volontaire",
+            "úmyselný"
+          ],
+          [
+            "pratique",
+            "praktický"
+          ],
+          [
+            "avec plaisir",
+            "rado sa stalo"
+          ],
+          [
+            "précieux",
+            "cenný"
+          ],
+          [
+            "malade",
+            "chorý"
+          ],
+          [
+            "sain",
+            "zdravý"
+          ],
+          [
+            "marié",
+            "ženatý / vydatá"
+          ],
+          [
+            "fier",
+            "pyšný"
+          ],
+          [
+            "typique",
+            "typický"
+          ],
+          [
+            "suffisant",
+            "dostatočný"
+          ],
+          [
+            "utile",
+            "užitočný"
+          ],
+          [
+            "fatigué",
+            "unavený"
+          ],
+          [
+            "meilleur",
+            "lepší"
+          ],
+          [
+            "pire",
+            "horší"
+          ],
+          [
+            "n'importe quel",
+            "čokoľvek"
+          ],
+          [
+            "surprenant",
+            "prekvapujúci"
+          ]
+        ],
+        [
+          [
+            "fragile",
+            "krehký"
+          ],
+          [
+            "solide",
+            "pevný"
+          ],
+          [
+            "liquide",
+            "tekutý"
+          ],
+          [
+            "pointu",
+            "špicatý"
+          ],
+          [
+            "lisse",
+            "hladký"
+          ],
+          [
+            "disponible, libre",
+            "voľný"
+          ],
+          [
+            "ouvert",
+            "otvorené"
+          ],
+          [
+            "fermé",
+            "zatvorené"
+          ],
+          [
+            "courant, fluide",
+            "plynulý"
+          ],
+          [
+            "étranger",
+            "cudzí"
+          ],
+          [
+            "célèbre",
+            "slávny"
+          ],
+          [
+            "politique",
+            "politický"
+          ],
+          [
+            "jeune",
+            "mladý"
+          ],
+          [
+            "stupide",
+            "hlúpy"
+          ],
+          [
+            "gentil",
+            "milý"
+          ],
+          [
+            "méchant",
+            "protivný"
+          ],
+          [
+            "passé",
+            "minulý"
+          ],
+          [
+            "intérieur",
+            "vnútorný"
+          ],
+          [
+            "extérieur",
+            "vonkajší"
+          ],
+          [
+            "récent",
+            "nedávny"
+          ]
+        ],
+        [
+          [
+            "nourriture",
+            "potrava"
+          ],
+          [
+            "repas",
+            "jedlo"
+          ],
+          [
+            "petit-déjeuner",
+            "raňajky"
+          ],
+          [
+            "déjeuner",
+            "obed"
+          ],
+          [
+            "dîner",
+            "večera"
+          ],
+          [
+            "goûter",
+            "olovrant"
+          ],
+          [
+            "boisson",
+            "nápoj"
+          ],
+          [
+            "patate",
+            "zemiak"
+          ],
+          [
+            "riz",
+            "ryža"
+          ],
+          [
+            "courgette",
+            "cuketa"
+          ],
+          [
+            "haricot",
+            "fazuľa"
+          ],
+          [
+            "poulet",
+            "kura"
+          ],
+          [
+            "bœuf",
+            "hovädzina"
+          ],
+          [
+            "porc",
+            "bravčové"
+          ],
+          [
+            "viande",
+            "mäso"
+          ],
+          [
+            "poisson",
+            "ryba"
+          ],
+          [
+            "sauce",
+            "omáčka"
+          ],
+          [
+            "jus",
+            "džus"
+          ],
+          [
+            "lait",
+            "mlieko"
+          ],
+          [
+            "café",
+            "káva"
+          ]
+        ],
+        [
+          [
+            "thé",
+            "čaj"
+          ],
+          [
+            "bière",
+            "pivo"
+          ],
+          [
+            "vin",
+            "víno"
+          ],
+          [
+            "fruit",
+            "ovocie"
+          ],
+          [
+            "légume",
+            "zelenina"
+          ],
+          [
+            "céréale",
+            "obilnina"
+          ],
+          [
+            "noix",
+            "orech"
+          ],
+          [
+            "pain",
+            "chlieb"
+          ],
+          [
+            "farine",
+            "múka"
+          ],
+          [
+            "huile",
+            "olej"
+          ],
+          [
+            "oignon",
+            "cibuľa"
+          ],
+          [
+            "ail",
+            "cesnak"
+          ],
+          [
+            "gâteau",
+            "koláč"
+          ],
+          [
+            "dessert",
+            "dezert"
+          ],
+          [
+            "sucre",
+            "cukor"
+          ],
+          [
+            "sel",
+            "soľ"
+          ],
+          [
+            "poivre",
+            "čierne korenie"
+          ],
+          [
+            "tarte",
+            "koláč"
+          ],
+          [
+            "sandwich",
+            "sendvič"
+          ],
+          [
+            "frite",
+            "hranolky"
+          ],
+          [
+            "aimer (amour)",
+            "ľubiť"
+          ],
+          [
+            "se coucher",
+            "ľahnúť"
+          ]
+        ],
+        [
+          [
+            "pomme",
+            "jablko"
+          ],
+          [
+            "banane",
+            "banán"
+          ],
+          [
+            "raisin",
+            "hrozno"
+          ],
+          [
+            "soupe",
+            "polievka"
+          ],
+          [
+            "tranche",
+            "krajec"
+          ],
+          [
+            "saumon",
+            "losos"
+          ],
+          [
+            "crème",
+            "smotana"
+          ],
+          [
+            "épice",
+            "korenie"
+          ],
+          [
+            "nouille",
+            "rezance"
+          ],
+          [
+            "crêpe",
+            "palacinka"
+          ],
+          [
+            "il aime (amour)",
+            "ľúbi"
+          ],
+          [
+            "il se couche",
+            "ľahne"
+          ]
+        ],
+        [
+          [
+            "corps",
+            "telo"
+          ],
+          [
+            "tête",
+            "hlava"
+          ],
+          [
+            "peau",
+            "koža"
+          ],
+          [
+            "poil",
+            "chlp"
+          ],
+          [
+            "bras",
+            "ruka"
+          ],
+          [
+            "doigt",
+            "prst"
+          ],
+          [
+            "épaule",
+            "plece"
+          ],
+          [
+            "coude",
+            "lakeť"
+          ],
+          [
+            "poignet",
+            "zápästie"
+          ],
+          [
+            "pouce",
+            "palec"
+          ],
+          [
+            "paume",
+            "dlaň"
+          ],
+          [
+            "cheveu",
+            "vlas"
+          ],
+          [
+            "front",
+            "čelo"
+          ],
+          [
+            "menton",
+            "brada"
+          ],
+          [
+            "joue",
+            "líce"
+          ],
+          [
+            "oreille",
+            "ucho"
+          ],
+          [
+            "œil",
+            "oko"
+          ],
+          [
+            "nez",
+            "nos"
+          ],
+          [
+            "narine",
+            "nosná dierka"
+          ],
+          [
+            "sourcil",
+            "obočie"
+          ]
+        ],
+        [
+          [
+            "cil",
+            "mihalnica"
+          ],
+          [
+            "paupière",
+            "viečko"
+          ],
+          [
+            "bouche",
+            "ústa"
+          ],
+          [
+            "lèvre",
+            "pery"
+          ],
+          [
+            "dent",
+            "zub"
+          ],
+          [
+            "langue",
+            "jazyk"
+          ],
+          [
+            "gorge",
+            "hrdlo"
+          ],
+          [
+            "cou",
+            "krk"
+          ],
+          [
+            "nuque",
+            "šija"
+          ],
+          [
+            "torse",
+            "trup"
+          ],
+          [
+            "dos",
+            "chrbát"
+          ],
+          [
+            "ventre",
+            "brucho"
+          ],
+          [
+            "nombril",
+            "pupok"
+          ],
+          [
+            "côte",
+            "rebro"
+          ],
+          [
+            "hanche",
+            "bok"
+          ],
+          [
+            "bassin",
+            "panva"
+          ],
+          [
+            "fesse",
+            "zadok"
+          ],
+          [
+            "jambe",
+            "noha"
+          ],
+          [
+            "cuisse",
+            "stehno"
+          ],
+          [
+            "mollet",
+            "lýtko"
+          ]
+        ],
+        [
+          [
+            "genou",
+            "koleno"
+          ],
+          [
+            "cheville",
+            "členok"
+          ],
+          [
+            "pied",
+            "noha"
+          ],
+          [
+            "orteil",
+            "prst"
+          ],
+          [
+            "ongle",
+            "necht"
+          ],
+          [
+            "poumon",
+            "pľúca"
+          ],
+          [
+            "cœur",
+            "srdce"
+          ],
+          [
+            "cerveau",
+            "mozog"
+          ],
+          [
+            "os",
+            "kosť"
+          ],
+          [
+            "muscle",
+            "sval"
+          ]
+        ],
+        [
+          [
+            "jour",
+            "deň"
+          ],
+          [
+            "nuit",
+            "noc"
+          ],
+          [
+            "matin",
+            "ráno"
+          ],
+          [
+            "après-midi",
+            "poobedie"
+          ],
+          [
+            "soir",
+            "večer"
+          ],
+          [
+            "temps",
+            "čas"
+          ],
+          [
+            "présent",
+            "prítomnosť"
+          ],
+          [
+            "futur",
+            "budúcnosť"
+          ],
+          [
+            "﻿heure",
+            "hodina"
+          ],
+          [
+            "minute",
+            "minúta"
+          ],
+          [
+            "seconde",
+            "sekunda"
+          ],
+          [
+            "semaine",
+            "týždeň"
+          ],
+          [
+            "mois",
+            "mesiac"
+          ],
+          [
+            "année",
+            "rok"
+          ],
+          [
+            "décennie",
+            "desaťročie"
+          ],
+          [
+            "siècle",
+            "storočie"
+          ],
+          [
+            "saison",
+            "ročné obdobie"
+          ],
+          [
+            "période",
+            "perióda"
+          ],
+          [
+            "durée",
+            "trvanie"
+          ],
+          [
+            "passé",
+            "minulosť"
+          ]
+        ],
+        [
+          [
+            "lundi",
+            "pondelok"
+          ],
+          [
+            "mardi",
+            "uturok"
+          ],
+          [
+            "mercredi",
+            "streda"
+          ],
+          [
+            "jeudi",
+            "štvrtok"
+          ],
+          [
+            "vendredi",
+            "piatok"
+          ],
+          [
+            "samedi",
+            "sobota"
+          ],
+          [
+            "dimanche",
+            "nedeľa"
+          ],
+          [
+            "janvier",
+            "január"
+          ],
+          [
+            "février",
+            "február"
+          ],
+          [
+            "mars",
+            "marec"
+          ],
+          [
+            "avril",
+            "apríl"
+          ],
+          [
+            "mai",
+            "máj"
+          ],
+          [
+            "juin",
+            "jún"
+          ],
+          [
+            "juillet",
+            "júl"
+          ],
+          [
+            "août",
+            "august"
+          ],
+          [
+            "septembre",
+            "september"
+          ],
+          [
+            "octobre",
+            "október"
+          ],
+          [
+            "novembre",
+            "november"
+          ],
+          [
+            "décembre",
+            "december"
+          ]
+        ],
+        [
+          [
+            "maintenant",
+            "teraz"
+          ],
+          [
+            "plus tard",
+            "neskôr"
+          ],
+          [
+            "hier",
+            "včera"
+          ],
+          [
+            "aujourd'hui",
+            "dnes"
+          ],
+          [
+            "demain",
+            "zajtra"
+          ],
+          [
+            "double",
+            "dvojitý"
+          ],
+          [
+            "triple",
+            "trojitý"
+          ],
+          [
+            "moitié",
+            "polovica"
+          ],
+          [
+            "quart",
+            "štvrť"
+          ],
+          [
+            "partie",
+            "časť"
+          ],
+          [
+            "tout",
+            "celý"
+          ]
+        ],
+        [
+          [
+            "acheter",
+            "kupiť"
+          ],
+          [
+            "vendre",
+            "predať"
+          ],
+          [
+            "payer",
+            "platiť"
+          ],
+          [
+            "gagner",
+            "vyhrať"
+          ],
+          [
+            "perdre",
+            "prehrať"
+          ],
+          [
+            "négocier",
+            "vyjednávať"
+          ],
+          [
+            "courir",
+            "bežať"
+          ],
+          [
+            "nager",
+            "plávať"
+          ],
+          [
+            "sauter",
+            "skočiť"
+          ],
+          [
+            "grimper",
+            "liezť"
+          ],
+          [
+            "boire",
+            "piť"
+          ],
+          [
+            "attendre",
+            "čakať"
+          ],
+          [
+            "demander",
+            "pýtať sa"
+          ],
+          [
+            "pleuvoir",
+            "pršať"
+          ],
+          [
+            "neiger",
+            "snežiť"
+          ],
+          [
+            "couler",
+            "tiecť"
+          ],
+          [
+            "essuyer",
+            "utrieť"
+          ],
+          [
+            "lancer, jeter",
+            "hodiť"
+          ],
+          [
+            "se coucher",
+            "ľahnúť"
+          ],
+          [
+            "cliquer",
+            "kliknuť"
+          ]
+        ],
+        [
+          [
+            "il achète",
+            "kúpi"
+          ],
+          [
+            "il vend",
+            "predá"
+          ],
+          [
+            "il paie",
+            "platí"
+          ],
+          [
+            "il gagne",
+            "vyhrá"
+          ],
+          [
+            "il perd",
+            "prehrá"
+          ],
+          [
+            "il négocie",
+            "vyjednáva"
+          ],
+          [
+            "il court",
+            "beží"
+          ],
+          [
+            "il nage",
+            "pláva"
+          ],
+          [
+            "il saute",
+            "skočí"
+          ],
+          [
+            "il grimpe",
+            "lezie"
+          ],
+          [
+            "il boit",
+            "pije"
+          ],
+          [
+            "il attend",
+            "čaká"
+          ],
+          [
+            "il demande",
+            "pýta sa"
+          ],
+          [
+            "il pleut",
+            "prší"
+          ],
+          [
+            "il neige",
+            "sneží"
+          ],
+          [
+            "il coule",
+            "tečie"
+          ],
+          [
+            "il essuie",
+            "utrie"
+          ],
+          [
+            "il lance, jette",
+            "hodí"
+          ],
+          [
+            "il se couche",
+            "ľahne"
+          ],
+          [
+            "il clique",
+            "klikne"
+          ]
+        ],
+        [
+          [
+            "ouvrir",
+            "otvoriť"
+          ],
+          [
+            "fermer",
+            "zavrieť"
+          ],
+          [
+            "verrouiller",
+            "zamknúť"
+          ],
+          [
+            "appuyer",
+            "tlačiť"
+          ],
+          [
+            "rêver",
+            "snívať"
+          ],
+          [
+            "frapper",
+            "udrieť"
+          ],
+          [
+            "voler (en l'air)",
+            "lietať"
+          ],
+          [
+            "casser",
+            "rozbiť"
+          ],
+          [
+            "réparer",
+            "opraviť"
+          ],
+          [
+            "poser",
+            "položiť"
+          ],
+          [
+            "sourire",
+            "usmiať sa"
+          ],
+          [
+            "rire",
+            "smiať sa"
+          ],
+          [
+            "pleurer",
+            "plakať"
+          ],
+          [
+            "proposer",
+            "navrhnuť"
+          ],
+          [
+            "recevoir",
+            "dostať"
+          ],
+          [
+            "construire",
+            "postaviť"
+          ],
+          [
+            "se reposer",
+            "oddýchnuť"
+          ],
+          [
+            "enlever",
+            "odobrať"
+          ],
+          [
+            "vider",
+            "vyprázdniť"
+          ],
+          [
+            "remplir",
+            "naplniť"
+          ]
+        ],
+        [
+          [
+            "il ouvre",
+            "otvorí"
+          ],
+          [
+            "il ferme",
+            "zavrie"
+          ],
+          [
+            "il verrouille",
+            "zamkne"
+          ],
+          [
+            "il appuie",
+            "tlačí"
+          ],
+          [
+            "il rêve",
+            "sníva"
+          ],
+          [
+            "il frappe",
+            "udrie"
+          ],
+          [
+            "il vole (en l'air)",
+            "lieta"
+          ],
+          [
+            "il casse",
+            "rozbije"
+          ],
+          [
+            "il répare",
+            "opraví"
+          ],
+          [
+            "il pose",
+            "položí"
+          ],
+          [
+            "il sourit",
+            "usmeje sa"
+          ],
+          [
+            "il rit",
+            "smeje sa"
+          ],
+          [
+            "il pleure",
+            "plače"
+          ],
+          [
+            "il propose",
+            "navrhne"
+          ],
+          [
+            "il reçoit",
+            "dostane"
+          ],
+          [
+            "il construit",
+            "postaví"
+          ],
+          [
+            "il se repose",
+            "oddýchne"
+          ],
+          [
+            "il enlève",
+            "zoberie"
+          ],
+          [
+            "il vide",
+            "vyprázdni"
+          ],
+          [
+            "il remplit",
+            "naplní"
+          ]
+        ],
+        [
+          [
+            "vérifier",
+            "overiť"
+          ],
+          [
+            "lire",
+            "čítať"
+          ],
+          [
+            "écrire",
+            "písať"
+          ],
+          [
+            "réserver",
+            "rezervovať"
+          ],
+          [
+            "jouer",
+            "hrať"
+          ],
+          [
+            "s'entraîner",
+            "cvičiť"
+          ],
+          [
+            "chanter",
+            "spievať"
+          ],
+          [
+            "danser",
+            "tancovať"
+          ],
+          [
+            "s'inscrire",
+            "prihlásiť"
+          ],
+          [
+            "participer",
+            "zúčastniť sa"
+          ],
+          [
+            "aimer (bien)",
+            "mať rád"
+          ],
+          [
+            "avoir l'air de",
+            "vyzerať"
+          ],
+          [
+            "ressembler",
+            "podobať sa"
+          ],
+          [
+            "oublier",
+            "zabudnúť"
+          ],
+          [
+            "se rappeler",
+            "spomenúť si"
+          ],
+          [
+            "manger",
+            "jesť"
+          ],
+          [
+            "faire connaissance",
+            "zoznámiť sa"
+          ],
+          [
+            "se retrouver, recontrer",
+            "stretnúť sa"
+          ],
+          [
+            "découvrir",
+            "objaviť"
+          ],
+          [
+            "classer",
+            "triediť"
+          ]
+        ],
+        [
+          [
+            "il vérifie",
+            "overí"
+          ],
+          [
+            "il lit",
+            "číta"
+          ],
+          [
+            "il écrit",
+            "píše"
+          ],
+          [
+            "il réserve",
+            "rezervuje"
+          ],
+          [
+            "il joue",
+            "hrá"
+          ],
+          [
+            "il s'entraîne",
+            "cvičí"
+          ],
+          [
+            "il chante",
+            "spieva"
+          ],
+          [
+            "il danse",
+            "tancuje"
+          ],
+          [
+            "il s'inscrit",
+            "prihlási"
+          ],
+          [
+            "il participe",
+            "zúčastní sa"
+          ],
+          [
+            "il aime",
+            "má rád"
+          ],
+          [
+            "il paraît",
+            "vyzerá"
+          ],
+          [
+            "il ressemble",
+            "pobodá sa"
+          ],
+          [
+            "il oublier",
+            "zabudne"
+          ],
+          [
+            "il se rappelle",
+            "spomenije si"
+          ],
+          [
+            "il mange",
+            "je"
+          ],
+          [
+            "il fait connaissance",
+            "zoznámi sa"
+          ],
+          [
+            "il se retrouve",
+            "stretne sa"
+          ],
+          [
+            "il découvre",
+            "objaví"
+          ],
+          [
+            "il classe",
+            "triedi"
+          ]
+        ],
+        [
+          [
+            "devoir (futur, intention)",
+            "mal by"
+          ],
+          [
+            "tenir compte de",
+            "rátať"
+          ],
+          [
+            "suivre",
+            "sledovať"
+          ],
+          [
+            "prendre, acquérir",
+            "zobrať"
+          ],
+          [
+            "guider, diriger",
+            "viesť"
+          ],
+          [
+            "mentionner",
+            "zmieniť sa"
+          ],
+          [
+            "changer",
+            "meniť"
+          ],
+          [
+            "échanger",
+            "vymeniť"
+          ],
+          [
+            "modifier",
+            "zmeniť"
+          ],
+          [
+            "servir à",
+            "slúžiť"
+          ],
+          [
+            "traiter",
+            "zaobchádzať"
+          ],
+          [
+            "télécharger",
+            "stiahnúť"
+          ],
+          [
+            "mettre en ligne",
+            "nahrať"
+          ],
+          [
+            "décrire",
+            "opísať"
+          ],
+          [
+            "aller à, convenir",
+            "hodiť sa"
+          ],
+          [
+            "s'adapter",
+            "prispôsobiť sa"
+          ],
+          [
+            "utiliser",
+            "použiť"
+          ],
+          [
+            "refuser",
+            "odmietnúť"
+          ],
+          [
+            "autoriser",
+            "oprávniť"
+          ],
+          [
+            "interpréter",
+            "interpretovať"
+          ]
+        ],
+        [
+          [
+            "il doit (futur)",
+            "mal by"
+          ],
+          [
+            "il tient compte de",
+            "ráta"
+          ],
+          [
+            "il suit",
+            "sleduje"
+          ],
+          [
+            "il prend, acquiert",
+            "zoberie"
+          ],
+          [
+            "il guide, dirige",
+            "vedie"
+          ],
+          [
+            "il mentionne",
+            "zmieni sa"
+          ],
+          [
+            "il change",
+            "mení"
+          ],
+          [
+            "il échange",
+            "vymení"
+          ],
+          [
+            "il modifie",
+            "zmení"
+          ],
+          [
+            "il sert à",
+            "slúži"
+          ],
+          [
+            "il traite",
+            "zaobchádza"
+          ],
+          [
+            "il télécharge",
+            "stiahne"
+          ],
+          [
+            "il met en ligne",
+            "nahrá"
+          ],
+          [
+            "il décrit",
+            "opíše"
+          ],
+          [
+            "il va à , convient",
+            "hodí sa"
+          ],
+          [
+            "il adapte",
+            "prispôsobí sa"
+          ],
+          [
+            "il utilise",
+            "použije"
+          ],
+          [
+            "il refuse",
+            "odmietne"
+          ],
+          [
+            "il autorise",
+            "oprávni"
+          ],
+          [
+            "il interprète",
+            "interpretuje"
+          ]
+        ],
+        [
+          [
+            "exposer, expliquer",
+            "vysvetliť"
+          ],
+          [
+            "parcourir",
+            "prejsť"
+          ],
+          [
+            "suffire",
+            "stačiť"
+          ],
+          [
+            "présenter",
+            "predstaviť"
+          ],
+          [
+            "aider",
+            "pomôcť"
+          ],
+          [
+            "paresser",
+            "leňošiť"
+          ],
+          [
+            "surprendre",
+            "prekvapiť"
+          ],
+          [
+            "coûter",
+            "stáť"
+          ],
+          [
+            "naître",
+            "narodiť sa"
+          ],
+          [
+            "tenir",
+            "držať"
+          ],
+          [
+            "dessiner",
+            "kresliť"
+          ],
+          [
+            "peindre (art)",
+            "maľovať"
+          ],
+          [
+            "pendre",
+            "zavesiť"
+          ],
+          [
+            "tuer",
+            "zabiť"
+          ],
+          [
+            "blesser",
+            "raniť"
+          ],
+          [
+            "épouser une femme",
+            "oženiť sa"
+          ],
+          [
+            "épouser un homme",
+            "vydať sa"
+          ],
+          [
+            "signifier",
+            "znamenať"
+          ],
+          [
+            "croiser",
+            "prekrížiť"
+          ],
+          [
+            "cocher",
+            "zaškrtnuť"
+          ]
+        ],
+        [
+          [
+            "il expose, explique",
+            "vysvetlí"
+          ],
+          [
+            "il parcourt",
+            "prejde"
+          ],
+          [
+            "il suffit",
+            "stačí"
+          ],
+          [
+            "il présente",
+            "predstaví"
+          ],
+          [
+            "il aide",
+            "pomôže"
+          ],
+          [
+            "il paresse",
+            "leňoší"
+          ],
+          [
+            "il surprend",
+            "prekvapí"
+          ],
+          [
+            "il coûte",
+            "stojí"
+          ],
+          [
+            "il naît",
+            "narodí sa"
+          ],
+          [
+            "il tient",
+            "drží"
+          ],
+          [
+            "il dessine",
+            "kreslí"
+          ],
+          [
+            "il peint (art)",
+            "maľuje"
+          ],
+          [
+            "il pend",
+            "zavesí"
+          ],
+          [
+            "il tue",
+            "zabije"
+          ],
+          [
+            "il blesse",
+            "raní"
+          ],
+          [
+            "il épouse",
+            "ožení sa"
+          ],
+          [
+            "elle épouse",
+            "vydá sa"
+          ],
+          [
+            "il signifie",
+            "znamená"
+          ],
+          [
+            "il croise",
+            "prekríži"
+          ],
+          [
+            "il coche",
+            "zaškrtne"
+          ]
+        ],
+        [
+          [
+            "﻿animal",
+            "zviera"
+          ],
+          [
+            "chien",
+            "pes"
+          ],
+          [
+            "chat",
+            "mačka"
+          ],
+          [
+            "lapin",
+            "zajac"
+          ],
+          [
+            "cheval",
+            "kôň"
+          ],
+          [
+            "âne",
+            "somár"
+          ],
+          [
+            "vache",
+            "krava"
+          ],
+          [
+            "cochon",
+            "prasa"
+          ],
+          [
+            "mouton",
+            "ovca"
+          ],
+          [
+            "chèvre",
+            "koza"
+          ],
+          [
+            "taureau",
+            "býk"
+          ],
+          [
+            "cerf",
+            "jeleň"
+          ],
+          [
+            "loup",
+            "vlk"
+          ],
+          [
+            "renard",
+            "líška"
+          ],
+          [
+            "souris",
+            "myš"
+          ],
+          [
+            "rat",
+            "potkan"
+          ],
+          [
+            "mouche",
+            "mucha"
+          ],
+          [
+            "fourmi",
+            "mravec"
+          ],
+          [
+            "papillon",
+            "motýľ"
+          ],
+          [
+            "moustique",
+            "komár"
+          ]
+        ],
+        [
+          [
+            "escargot",
+            "slimák"
+          ],
+          [
+            "limace",
+            "slizniak"
+          ],
+          [
+            "ver",
+            "dážďovka"
+          ],
+          [
+            "araignée",
+            "pavúk"
+          ],
+          [
+            "scarabée",
+            "chrobák"
+          ],
+          [
+            "sauterelle",
+            "kobylka"
+          ],
+          [
+            "chenille",
+            "húsenica"
+          ],
+          [
+            "abeille",
+            "včela"
+          ],
+          [
+            "guêpe",
+            "osa"
+          ],
+          [
+            "élephant",
+            "slon"
+          ],
+          [
+            "giraffe",
+            "žirafa"
+          ],
+          [
+            "rhinocéros",
+            "nosorožec"
+          ],
+          [
+            "hippopotame",
+            "hroch"
+          ],
+          [
+            "lion",
+            "lev"
+          ],
+          [
+            "tigre",
+            "tiger"
+          ],
+          [
+            "ours",
+            "medveď"
+          ],
+          [
+            "oiseau",
+            "vták"
+          ],
+          [
+            "poule",
+            "sliepka"
+          ],
+          [
+            "pigeon",
+            "holub"
+          ],
+          [
+            "canard",
+            "kačka"
+          ]
+        ],
+        [
+          [
+            "oie",
+            "hus"
+          ],
+          [
+            "corbeau",
+            "vrana"
+          ],
+          [
+            "moineau",
+            "vrabec"
+          ],
+          [
+            "aigle",
+            "orol"
+          ],
+          [
+            "vautour",
+            "sup"
+          ],
+          [
+            "serpent",
+            "had"
+          ],
+          [
+            "lézard",
+            "jašterica"
+          ],
+          [
+            "grenouille",
+            "žaba"
+          ],
+          [
+            "baleine",
+            "veľryba"
+          ],
+          [
+            "requin",
+            "žralok"
+          ]
+        ],
+        [
+          [
+            "l'homme",
+            "muž"
+          ],
+          [
+            "la femme",
+            "žena"
+          ],
+          [
+            "l'enfant",
+            "dieťa"
+          ],
+          [
+            "le bébé",
+            "bábätko"
+          ],
+          [
+            "le garçon",
+            "chlapec"
+          ],
+          [
+            "la fille",
+            "dievča"
+          ],
+          [
+            "le père",
+            "otec"
+          ],
+          [
+            "la mère",
+            "matka"
+          ],
+          [
+            "le fils",
+            "syn"
+          ],
+          [
+            "la fille (de ses parents)",
+            "dcéra"
+          ],
+          [
+            "le frère",
+            "brat"
+          ],
+          [
+            "la sœur",
+            "sestra"
+          ],
+          [
+            "le grand-père",
+            "starý otec"
+          ],
+          [
+            "la grand-mère",
+            "stará mama"
+          ],
+          [
+            "le mari",
+            "manžel"
+          ],
+          [
+            "la femme (de son mari)",
+            "manželka"
+          ],
+          [
+            "la personne",
+            "osoba"
+          ],
+          [
+            "l'oncle",
+            "strýko"
+          ],
+          [
+            "la tante",
+            "teta"
+          ],
+          [
+            "le cousin",
+            "bratranec"
+          ]
+        ],
+        [
+          [
+            "la cousine",
+            "sesternica"
+          ],
+          [
+            "le neveu",
+            "synovec"
+          ],
+          [
+            "la nièce",
+            "neter"
+          ],
+          [
+            "l'ami",
+            "priateľ"
+          ],
+          [
+            "l'ennemi",
+            "nepriateľ"
+          ],
+          [
+            "le camarade",
+            "kamarát"
+          ],
+          [
+            "le parent",
+            "rodič"
+          ],
+          [
+            "les parents",
+            "rodičia"
+          ],
+          [
+            "personne",
+            "nikto"
+          ],
+          [
+            "les gens",
+            "ľud"
+          ],
+          [
+            "l'humain",
+            "človek"
+          ],
+          [
+            "le petit-fils",
+            "vnuk"
+          ],
+          [
+            "la petite-fille",
+            "vnučka"
+          ],
+          [
+            "le petit ami",
+            "priateľ"
+          ],
+          [
+            "la petite amie",
+            "priateľka"
+          ],
+          [
+            "les frères et sœurs",
+            "súrodenci"
+          ],
+          [
+            "les petits-enfants",
+            "vnúčatá"
+          ],
+          [
+            "le monsieur",
+            "pán"
+          ],
+          [
+            "la madame",
+            "pani"
+          ],
+          [
+            "le voyageur",
+            "cestujúci"
+          ]
+        ],
+        [
+          [
+            "la connaissance (personne)",
+            "známy"
+          ],
+          [
+            "le collègue",
+            "kolega"
+          ],
+          [
+            "l'élève",
+            "žiak"
+          ],
+          [
+            "l'étudiant",
+            "študent"
+          ],
+          [
+            "le professeur",
+            "profesor"
+          ],
+          [
+            "le médecin",
+            "lekár"
+          ],
+          [
+            "le locataire",
+            "nájomník"
+          ],
+          [
+            "le propriétaire",
+            "majiteľ"
+          ],
+          [
+            "le meilleur",
+            "najlepší"
+          ],
+          [
+            "le pire",
+            "najhorší"
+          ],
+          [
+            "l'organisation",
+            "organizácia"
+          ],
+          [
+            "le rendez-vous",
+            "stretnutie"
+          ],
+          [
+            "le message",
+            "správa"
+          ],
+          [
+            "la discussion",
+            "diskusia"
+          ],
+          [
+            "la vue",
+            "výhľad"
+          ],
+          [
+            "la date",
+            "dátum"
+          ],
+          [
+            "l'étape",
+            "krok"
+          ],
+          [
+            "la compétence",
+            "spôsobilosť"
+          ],
+          [
+            "l'information",
+            "informácia"
+          ],
+          [
+            "la déclaration",
+            "vyhlásenie"
+          ]
+        ],
+        [
+          [
+            "l'inscription",
+            "zápis"
+          ],
+          [
+            "le dessin",
+            "kresba"
+          ],
+          [
+            "l'enregistrement",
+            "záznam"
+          ],
+          [
+            "la réunion",
+            "schôdza"
+          ],
+          [
+            "la consultation",
+            "konzultácia"
+          ],
+          [
+            "l'exemple",
+            "príklad"
+          ],
+          [
+            "le jeu",
+            "hra"
+          ],
+          [
+            "l'utilisation",
+            "použitie"
+          ],
+          [
+            "le choix",
+            "voľba"
+          ],
+          [
+            "la méthode",
+            "metóda"
+          ],
+          [
+            "le projet",
+            "projekt"
+          ],
+          [
+            "le magasin",
+            "obchod"
+          ],
+          [
+            "le cycle",
+            "kolobeh"
+          ],
+          [
+            "la couleur",
+            "farba"
+          ],
+          [
+            "la liste",
+            "zoznam"
+          ],
+          [
+            "la croix",
+            "kríž"
+          ],
+          [
+            "la vidéo",
+            "video"
+          ],
+          [
+            "le problème",
+            "problém"
+          ],
+          [
+            "la chute",
+            "pád"
+          ],
+          [
+            "le cas",
+            "prípad"
+          ]
+        ],
+        [
+          [
+            "la situation",
+            "situácia"
+          ],
+          [
+            "le modèle",
+            "vzor"
+          ],
+          [
+            "l'île",
+            "ostrov"
+          ],
+          [
+            "le vote",
+            "hlas"
+          ],
+          [
+            "le livre",
+            "kniha"
+          ],
+          [
+            "le mode",
+            "režim"
+          ],
+          [
+            "la marque (entreprise)",
+            "značka"
+          ],
+          [
+            "la lumière",
+            "svetlo"
+          ],
+          [
+            "le devoir",
+            "povinnosť"
+          ],
+          [
+            "la nature",
+            "príroda"
+          ],
+          [
+            "la propriété",
+            "majetok"
+          ],
+          [
+            "la présence",
+            "prítomnosť"
+          ],
+          [
+            "la réservation",
+            "rezervácia"
+          ],
+          [
+            "le nom",
+            "meno"
+          ],
+          [
+            "la clé",
+            "kľúč"
+          ],
+          [
+            "le séjour",
+            "pobyt"
+          ],
+          [
+            "le cinéma",
+            "kino"
+          ],
+          [
+            "la surprise",
+            "prekvapenie"
+          ],
+          [
+            "le souhait",
+            "želanie"
+          ],
+          [
+            "l'hôtel",
+            "hotel"
+          ]
+        ],
+        [
+          [
+            "la regle, code, norme",
+            "pravidlo"
+          ],
+          [
+            "le code",
+            "kód"
+          ],
+          [
+            "l'angle",
+            "uhol"
+          ],
+          [
+            "la condition",
+            "podmienka"
+          ],
+          [
+            "le trait, ligne",
+            "čiara"
+          ],
+          [
+            "le signe, symbol",
+            "znak"
+          ],
+          [
+            "l'instant, le moment",
+            "chvíľa"
+          ],
+          [
+            "le point",
+            "bod"
+          ],
+          [
+            "la signature",
+            "podpis"
+          ],
+          [
+            "le départ",
+            "odchod"
+          ],
+          [
+            "l'arrivée",
+            "príchod"
+          ],
+          [
+            "le code postal",
+            "poštové smerovacie číslo"
+          ],
+          [
+            "le nombre",
+            "číslo"
+          ],
+          [
+            "le besoin",
+            "potreba"
+          ],
+          [
+            "l'envie",
+            "túžba"
+          ],
+          [
+            "la chagrin",
+            "zármutok"
+          ],
+          [
+            "la douleur",
+            "bolesť"
+          ],
+          [
+            "la joie, le plaisir",
+            "radosť"
+          ],
+          [
+            "la tristesse",
+            "smútok"
+          ],
+          [
+            "la fierté",
+            "hrdosť"
+          ]
+        ],
+        [
+          [
+            "l'honneur",
+            "česť"
+          ],
+          [
+            "la honte",
+            "hanba"
+          ],
+          [
+            "le mariage (cérémonie)",
+            "svadba"
+          ],
+          [
+            "le divorce",
+            "rozvod"
+          ],
+          [
+            "le métier",
+            "zamestnanie"
+          ],
+          [
+            "la famille",
+            "rodina"
+          ],
+          [
+            "la nationalité",
+            "národnosť"
+          ],
+          [
+            "le prénom",
+            "krstné meno"
+          ],
+          [
+            "le nom de famille",
+            "priezvisko"
+          ],
+          [
+            "le lieu",
+            "miesto"
+          ],
+          [
+            "l'erreur",
+            "omyl"
+          ],
+          [
+            "la réussite, le succès",
+            "úspech"
+          ],
+          [
+            "le classement",
+            "poradie"
+          ],
+          [
+            "le fichier",
+            "súbor"
+          ],
+          [
+            "le dossier",
+            "priečinok"
+          ],
+          [
+            "le réseau",
+            "sieť"
+          ],
+          [
+            "la connexion",
+            "pripojenie"
+          ],
+          [
+            "le logiciel",
+            "softvér"
+          ],
+          [
+            "la description",
+            "opis"
+          ],
+          [
+            "la présentation",
+            "predstavenie"
+          ]
+        ],
+        [
+          [
+            "l'aide",
+            "pomoc"
+          ],
+          [
+            "la fatigue",
+            "únava"
+          ],
+          [
+            "l'énergie",
+            "energia"
+          ],
+          [
+            "le sommeil",
+            "spánok"
+          ],
+          [
+            "la fois",
+            "raz"
+          ],
+          [
+            "le formulaire",
+            "formulár"
+          ],
+          [
+            "la naissance",
+            "narodenie"
+          ],
+          [
+            "l'arrêt",
+            "zastavenie"
+          ],
+          [
+            "la santé",
+            "zdravie"
+          ],
+          [
+            "l'hôpital",
+            "nemocnica"
           ]
         ]
       ]
