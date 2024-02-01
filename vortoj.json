@@ -1391,7 +1391,7 @@
         [
           [
             "donc",
-            "demzufolge"
+            "also"
           ],
           [
             "ni ... ni",
@@ -1462,7 +1462,7 @@
             "ferner"
           ],
           [
-            "en revanche",
+            "par contre",
             "dagegen"
           ],
           [
@@ -1637,7 +1637,7 @@
         [
           [
             "zéro",
-            "_null"
+            "null"
           ],
           [
             "un",
@@ -1838,6 +1838,46 @@
           [
             "onzième",
             "elfte"
+          ],
+          [
+            "midi",
+            "zwölf Uhr"
+          ],
+          [
+            "minuit",
+            "Mitternacht"
+          ],
+          [
+            "double",
+            "doppel"
+          ],
+          [
+            "le triple",
+            "dreifach"
+          ],
+          [
+            "la moitié",
+            "die Hälfte"
+          ],
+          [
+            "le quart",
+            "das Viertel"
+          ],
+          [
+            "la partie",
+            "der Teil"
+          ],
+          [
+            "tout (le)",
+            "ganze"
+          ],
+          [
+            "plusieurs",
+            "mehrere"
+          ],
+          [
+            "multiple",
+            "vielfach"
           ]
         ],
         [
@@ -2450,6 +2490,46 @@
           [
             "la crêpe",
             "der Pfannkuchen"
+          ],
+          [
+            "le fromage",
+            "der Käse"
+          ],
+          [
+            "la salade",
+            "der Salat"
+          ],
+          [
+            "le miel",
+            "der Honig"
+          ],
+          [
+            "le chocolat",
+            "die Schokolade"
+          ],
+          [
+            "la pizza",
+            "die Pizza"
+          ],
+          [
+            "l'omelette",
+            "das Omelett"
+          ],
+          [
+            "le yaourt",
+            "der Joghurt"
+          ],
+          [
+            "la tomate",
+            "die Tomate"
+          ],
+          [
+            "la pâte",
+            "der Teig"
+          ],
+          [
+            "la glace",
+            "das Eis"
           ]
         ],
         [
@@ -2656,6 +2736,46 @@
           [
             "le muscle",
             "der Muskel"
+          ],
+          [
+            "le foie",
+            "die Leber"
+          ],
+          [
+            "l'estomac",
+            "der Magen"
+          ],
+          [
+            "l'intestin",
+            "der Darm"
+          ],
+          [
+            "le rein",
+            "die Niere"
+          ],
+          [
+            "la vessie",
+            "die Blase"
+          ],
+          [
+            "le ligament",
+            "das Band"
+          ],
+          [
+            "la veine",
+            "die Ader"
+          ],
+          [
+            "l'artère",
+            "die Schlagader"
+          ],
+          [
+            "le tendon",
+            "die Sehne"
+          ],
+          [
+            "le nerf",
+            "der Nerv"
           ]
         ],
         [
@@ -2840,28 +2960,60 @@
             "morgen"
           ],
           [
-            "double",
-            "doppel"
+            "quel, lequel",
+            "welche"
           ],
           [
-            "le triple",
-            "dreifach"
+            "par",
+            "durch"
           ],
           [
-            "la moitié",
-            "die Hälfte"
+            "après (adverbe)",
+            "danach"
           ],
           [
-            "le quart",
-            "das Viertel"
+            "encore un fois",
+            "wieder"
           ],
           [
-            "la partie",
-            "der Teil"
+            "auparavant",
+            "vorher"
           ],
           [
-            "tout",
-            "ganze"
+            "pour le moment",
+            "im Moment"
+          ],
+          [
+            "aussi",
+            "auch"
+          ],
+          [
+            "de même",
+            "ebenso"
+          ],
+          [
+            "trop",
+            "zu"
+          ],
+          [
+            "assez",
+            "genug"
+          ],
+          [
+            "par dessus",
+            "über"
+          ],
+          [
+            "en haut",
+            "über"
+          ],
+          [
+            "tous",
+            "alle"
+          ],
+          [
+            "ça ne fait rien",
+            "?"
           ]
         ],
         [
@@ -3928,6 +4080,46 @@
           [
             "le requin",
             "der Hai"
+          ],
+          [
+            "le dauphin",
+            "der Delphine"
+          ],
+          [
+            "le pingouin",
+            "der Pinguin"
+          ],
+          [
+            "le perroquet",
+            "der Papagei"
+          ],
+          [
+            "la panthère",
+            "der Panther"
+          ],
+          [
+            "le kangourou",
+            "das Känguru"
+          ],
+          [
+            "le zèbre",
+            "das Zebra"
+          ],
+          [
+            "le paresseux",
+            "das Faultier"
+          ],
+          [
+            "le castor",
+            "der Biber"
+          ],
+          [
+            "le paon",
+            "der Pfau"
+          ],
+          [
+            "le flamant rose",
+            "der Flamingo"
           ]
         ],
         [
@@ -5322,6 +5514,10 @@
             "variť"
           ],
           [
+            "manger",
+            "jesť"
+          ],
+          [
             "boire",
             "piť"
           ],
@@ -5356,6 +5552,10 @@
           [
             "tomber",
             "padnúť"
+          ],
+          [
+            "aimer (bien)",
+            "mať rád"
           ],
           [
             "détester",
@@ -5396,6 +5596,10 @@
             "varí"
           ],
           [
+            "il mange",
+            "je"
+          ],
+          [
             "il boit",
             "pije"
           ],
@@ -5430,6 +5634,10 @@
           [
             "il tombe",
             "padne"
+          ],
+          [
+            "il aime",
+            "má rád"
           ],
           [
             "il déteste",
@@ -5962,12 +6170,20 @@
             "trochu"
           ],
           [
+            "à cause de",
+            "kvôli"
+          ],
+          [
             "tout le",
             "celý"
           ],
           [
             "en partie",
             "čiastočne"
+          ],
+          [
+            "l'un sur l'autre",
+            "na seba"
           ],
           [
             "certains",
@@ -5982,12 +6198,16 @@
             "väščina"
           ],
           [
-            "que, quel, lequel",
-            "ktorý"
+            "certes",
+            "veru"
           ],
           [
-            "par (passage)",
-            "cez"
+            "de plus",
+            "okrem toho"
+          ],
+          [
+            "par contre",
+            "naopak"
           ]
         ],
         [
@@ -6014,6 +6234,10 @@
           [
             "au dessus",
             "nad"
+          ],
+          [
+            "les autres",
+            "ostatný"
           ],
           [
             "toujours",
@@ -6054,26 +6278,6 @@
           [
             "enfin",
             "konečne"
-          ],
-          [
-            "après (adverbe)",
-            "potom"
-          ],
-          [
-            "malgré",
-            "napriek"
-          ],
-          [
-            "encore un fois",
-            "znova"
-          ],
-          [
-            "auparavant",
-            "predtým"
-          ],
-          [
-            "n'importe où",
-            "kamkoľvek"
           ]
         ],
         [
@@ -6114,6 +6318,10 @@
             "aby"
           ],
           [
+            "même si, bien que",
+            "hoci"
+          ],
+          [
             "depuis (moment)",
             "od"
           ],
@@ -6132,30 +6340,6 @@
           [
             "cependant, toutefois",
             "jednako"
-          ],
-          [
-            "pour le moment",
-            "zatiaľ"
-          ],
-          [
-            "n'importe quand",
-            "kedykoľvek"
-          ],
-          [
-            "même si, bien que",
-            "hoci"
-          ],
-          [
-            "depuis (durée)",
-            "už"
-          ],
-          [
-            "première fois",
-            "prvýkrát"
-          ],
-          [
-            "aussi",
-            "tiež"
           ]
         ],
         [
@@ -6362,6 +6546,46 @@
           [
             "onzième",
             "jedenáste"
+          ],
+          [
+            "midi",
+            "poludnie"
+          ],
+          [
+            "minuit",
+            "polnoc"
+          ],
+          [
+            "double",
+            "dvojitý"
+          ],
+          [
+            "triple",
+            "trojitý"
+          ],
+          [
+            "moitié",
+            "polovica"
+          ],
+          [
+            "quart",
+            "štvrť"
+          ],
+          [
+            "partie",
+            "časť"
+          ],
+          [
+            "tout",
+            "celý"
+          ],
+          [
+            "plusieurs",
+            "niekoľko"
+          ],
+          [
+            "multiple",
+            "viacnásobný"
           ]
         ],
         [
@@ -6936,14 +7160,6 @@
           [
             "frite",
             "hranolky"
-          ],
-          [
-            "aimer (amour)",
-            "ľubiť"
-          ],
-          [
-            "se coucher",
-            "ľahnúť"
           ]
         ],
         [
@@ -6988,12 +7204,44 @@
             "palacinka"
           ],
           [
-            "il aime (amour)",
-            "ľúbi"
+            "fromage",
+            "syr"
           ],
           [
-            "il se couche",
-            "ľahne"
+            "salade",
+            "šalát"
+          ],
+          [
+            "miel",
+            "med"
+          ],
+          [
+            "chocolat",
+            "čokoláda"
+          ],
+          [
+            "pizza",
+            "pizza"
+          ],
+          [
+            "omelette",
+            "omeleta"
+          ],
+          [
+            "yaourt",
+            "jogurt"
+          ],
+          [
+            "tomate",
+            "paradajka"
+          ],
+          [
+            "pâte",
+            "cesto"
+          ],
+          [
+            "glace",
+            "zmrzlina"
           ]
         ],
         [
@@ -7200,6 +7448,46 @@
           [
             "muscle",
             "sval"
+          ],
+          [
+            "foie",
+            "pečeň"
+          ],
+          [
+            "estomac",
+            "žalúdok"
+          ],
+          [
+            "intestin",
+            "vnútornosti"
+          ],
+          [
+            "rein",
+            "oblička"
+          ],
+          [
+            "vessie",
+            "mechúr"
+          ],
+          [
+            "ligament",
+            "väz"
+          ],
+          [
+            "veine",
+            "žila"
+          ],
+          [
+            "artère",
+            "tepna"
+          ],
+          [
+            "tendon",
+            "šľacha"
+          ],
+          [
+            "nerf",
+            "nerv"
           ]
         ],
         [
@@ -7384,28 +7672,60 @@
             "zajtra"
           ],
           [
-            "double",
-            "dvojitý"
+            "que, quel, lequel",
+            "ktorý"
           ],
           [
-            "triple",
-            "trojitý"
+            "par (passage)",
+            "cez"
           ],
           [
-            "moitié",
-            "polovica"
+            "après (adverbe)",
+            "potom"
           ],
           [
-            "quart",
-            "štvrť"
+            "encore un fois",
+            "znova"
           ],
           [
-            "partie",
-            "časť"
+            "auparavant",
+            "predtým"
           ],
           [
-            "tout",
-            "celý"
+            "pour le moment",
+            "zatiaľ"
+          ],
+          [
+            "depuis (durée)",
+            "už"
+          ],
+          [
+            "aussi",
+            "tiež"
+          ],
+          [
+            "de même",
+            "podobne"
+          ],
+          [
+            "trop",
+            "príliš"
+          ],
+          [
+            "assez",
+            "dosť"
+          ],
+          [
+            "par dessus",
+            "cez"
+          ],
+          [
+            "en haut",
+            "hore"
+          ],
+          [
+            "ça ne fait rien",
+            "nič sa nestalo"
           ]
         ],
         [
@@ -7778,8 +8098,8 @@
             "zúčastniť sa"
           ],
           [
-            "aimer (bien)",
-            "mať rád"
+            "aimer (amour)",
+            "ľubiť"
           ],
           [
             "avoir l'air de",
@@ -7796,10 +8116,6 @@
           [
             "se rappeler",
             "spomenúť si"
-          ],
-          [
-            "manger",
-            "jesť"
           ],
           [
             "faire connaissance",
@@ -7860,8 +8176,8 @@
             "zúčastní sa"
           ],
           [
-            "il aime",
-            "má rád"
+            "il aime (amour)",
+            "ľúbi"
           ],
           [
             "il paraît",
@@ -7878,10 +8194,6 @@
           [
             "il se rappelle",
             "spomenije si"
-          ],
-          [
-            "il mange",
-            "je"
           ],
           [
             "il fait connaissance",
@@ -8432,6 +8744,46 @@
           [
             "requin",
             "žralok"
+          ],
+          [
+            "dauphin",
+            "delfín"
+          ],
+          [
+            "pingouin",
+            "tučniak"
+          ],
+          [
+            "perroquet",
+            "papagáj"
+          ],
+          [
+            "panthère",
+            "panter"
+          ],
+          [
+            "kangourou",
+            "klokan"
+          ],
+          [
+            "zèbre",
+            "zebra"
+          ],
+          [
+            "paresseux",
+            "leňochod"
+          ],
+          [
+            "castor",
+            "bobor"
+          ],
+          [
+            "paon",
+            "páv"
+          ],
+          [
+            "flamant rose",
+            "plameniak"
           ]
         ],
         [
