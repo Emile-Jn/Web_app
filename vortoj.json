@@ -1431,7 +1431,7 @@
           ],
           [
             "tout",
-            "gesamte"
+            "alles"
           ],
           [
             "en partie",
@@ -2641,11 +2641,11 @@
           ],
           [
             "la gorge",
-            "der Hals"
+            "die Kehle"
           ],
           [
             "le cou",
-            "der Nacken"
+            "der Hals"
           ],
           [
             "le nuque",
@@ -3013,7 +3013,7 @@
           ],
           [
             "ça ne fait rien",
-            "?"
+            "das macht nichts"
           ]
         ],
         [
@@ -6577,7 +6577,7 @@
           ],
           [
             "tout",
-            "celý"
+            "všetko"
           ],
           [
             "plusieurs",
@@ -7722,6 +7722,10 @@
           [
             "en haut",
             "hore"
+          ],
+          [
+            "tous",
+            "všetci"
           ],
           [
             "ça ne fait rien",
