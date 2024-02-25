@@ -4788,34 +4788,6 @@
             "links"
           ],
           [
-            "de même",
-            "ebenso"
-          ],
-          [
-            "trop",
-            "zu"
-          ],
-          [
-            "assez",
-            "genug"
-          ],
-          [
-            "par dessus",
-            "über"
-          ],
-          [
-            "en haut",
-            "über"
-          ],
-          [
-            "tous",
-            "alles"
-          ],
-          [
-            "ça ne fait rien",
-            "das macht nichts"
-          ],
-          [
             "de rien",
             "bitte"
           ],
@@ -4834,15 +4806,13 @@
           [
             "séparément",
             "getrennt"
-          ]
-        ],
-        [
+          ],
           [
             "rien",
             "nichts"
           ],
           [
-            "juste",
+            "juste (maintenant)",
             "gerade"
           ],
           [
@@ -4930,14 +4900,6 @@
           [
             "interdire",
             "verbieten"
-          ],
-          [
-            "préoccuper",
-            "kümmern"
-          ],
-          [
-            "s'occuper de",
-            "sich kümmern"
           ]
         ],
         [
@@ -5012,14 +4974,6 @@
           [
             "il interdit",
             "er verbietet"
-          ],
-          [
-            "il préoccupe",
-            "er kümmert"
-          ],
-          [
-            "il s'occupe de",
-            "er kümmert sich"
           ]
         ],
         [
@@ -5536,6 +5490,31 @@
           [
             "la ruche",
             "der Bienenstock"
+          ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          [
+            "préoccuper",
+            "kümmern"
+          ],
+          [
+            "s'occuper de",
+            "sich kümmern"
+          ]
+        ],
+        [
+          [
+            "il préoccupe",
+            "er kümmert"
+          ],
+          [
+            "il s'occupe de",
+            "er kümmert sich"
           ]
         ]
       ]
@@ -10280,34 +10259,6 @@
             "vľavo"
           ],
           [
-            "de même",
-            "podobne"
-          ],
-          [
-            "trop",
-            "príliš"
-          ],
-          [
-            "assez",
-            "dosť"
-          ],
-          [
-            "par dessus",
-            "cez"
-          ],
-          [
-            "en haut",
-            "hore"
-          ],
-          [
-            "tous",
-            "všetky"
-          ],
-          [
-            "ça ne fait rien",
-            "nič sa nestalo"
-          ],
-          [
             "de rien",
             "nie je za čo"
           ],
@@ -10326,74 +10277,64 @@
           [
             "séparément",
             "zvlášť"
-          ]
-        ],
-        [
+          ],
           [
             "rien",
             "nič"
           ],
           [
-            "mon",
-            "môj"
+            "juste (maintenant)",
+            "práve"
           ],
           [
-            "ton",
-            "tvoj"
+            "juste (seulement)",
+            "iba"
           ],
           [
-            "son (à lui)",
-            "jeho"
+            "juste (assez)",
+            "akurát"
           ],
           [
-            "son (à elle)",
-            "jej"
+            "couramment (usuellement)",
+            "bežne"
           ],
           [
-            "notre",
-            "náš"
+            "en fait",
+            "vlastne"
           ],
           [
-            "votre",
-            "váš"
-          ],
-          [
-            "leur",
-            "ich"
-          ],
-          [
-            "aucun",
-            "žiadny"
-          ],
-          [
-            "tout droit",
-            "rovno"
-          ],
-          [
-            "à l'intérieur",
-            "vnútri"
-          ],
-          [
-            "dehors",
-            "von"
-          ],
-          [
-            "à pied",
-            "pešo"
+            "bientôt",
+            "čoskoro"
           ]
         ],
         [
           [
             "louer (acheter)",
-            "chváliť"
+            "najať"
+          ],
+          [
+            "louer (vendre)",
+            "prenajať"
           ],
           [
             "souhaiter",
             "želať si"
           ],
           [
+            "déplacer",
+            "posunúť"
+          ],
+          [
+            "se déplacer",
+            "posunúť sa"
+          ],
+          [
+            "avancer",
+            "posunúť sa vpred"
+          ],
+          [
             "reculer",
-            "cúvnuť"
+            "cúvať"
           ],
           [
             "monter",
@@ -10405,23 +10346,19 @@
           ],
           [
             "pousser",
-            "pobádať"
+            "sotiť"
           ],
           [
             "tirer",
             "ťahať"
           ],
           [
-            "lever",
-            "zdvíhať"
+            "lever, soulever",
+            "zdvihnúť"
           ],
           [
             "se lever",
             "vstať"
-          ],
-          [
-            "soulever",
-            "pozdvihnúť"
           ],
           [
             "se faire mal",
@@ -10433,7 +10370,7 @@
           ],
           [
             "réjouir",
-            "tešiť"
+            "potešiť"
           ],
           [
             "se réjouir",
@@ -10446,26 +10383,9 @@
           [
             "interdire",
             "zakázať"
-          ],
-          [
-            "préoccuper",
-            "obsadiť"
-          ],
-          [
-            "s'occuper de",
-            "starať sa"
-          ],
-          [
-            "se coucher",
-            "ľahnúť"
           ]
         ],
-        [
-          [
-            "il se couche",
-            "ľahne"
-          ]
-        ],
+        [],
         [
           [
             "choisir",
@@ -10532,7 +10452,12 @@
             "pripojiť"
           ]
         ],
-        [],
+        [
+          [
+            "il choisit",
+            "vyberie"
+          ]
+        ],
         [
           [
             "le mot",
@@ -10941,10 +10866,87 @@
             "úľ"
           ]
         ],
+        [],
+        [],
+        [
+          [
+            "mon",
+            "môj"
+          ],
+          [
+            "ton",
+            "tvoj"
+          ],
+          [
+            "son (à lui)",
+            "jeho"
+          ],
+          [
+            "son (à elle)",
+            "jej"
+          ],
+          [
+            "notre",
+            "náš"
+          ],
+          [
+            "votre",
+            "váš"
+          ],
+          [
+            "leur",
+            "ich"
+          ],
+          [
+            "aucun",
+            "žiadny"
+          ],
+          [
+            "tout droit",
+            "rovno"
+          ],
+          [
+            "à l'intérieur",
+            "vnútri"
+          ],
+          [
+            "dehors",
+            "von"
+          ],
+          [
+            "à pied",
+            "pešo"
+          ],
+          [
+            "continuellement",
+            "plynulo"
+          ]
+        ],
+        [],
         [
           [
             "prochain",
             "budúci"
+          ]
+        ],
+        [
+          [
+            "se coucher",
+            "ľahnúť"
+          ],
+          [
+            "préoccuper",
+            "obsadiť"
+          ],
+          [
+            "s'occuper de",
+            "starať sa"
+          ]
+        ],
+        [
+          [
+            "il se couche",
+            "ľahne"
           ]
         ]
       ]
