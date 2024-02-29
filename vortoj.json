@@ -3916,46 +3916,6 @@
           [
             "le moustique",
             "der Moskito"
-          ],
-          [
-            "le corbeau",
-            "der Rabe"
-          ],
-          [
-            "le moineau",
-            "der Spatz"
-          ],
-          [
-            "l'aigle",
-            "der Adler"
-          ],
-          [
-            "le vautour",
-            "der Geier"
-          ],
-          [
-            "le serpent",
-            "die Schlange"
-          ],
-          [
-            "le lézard",
-            "die Eidechse"
-          ],
-          [
-            "la grenouille",
-            "der Frosch"
-          ],
-          [
-            "le poisson",
-            "der Fisch"
-          ],
-          [
-            "la baleine",
-            "der Wal"
-          ],
-          [
-            "le requin",
-            "der Hai"
           ]
         ],
         [
@@ -5516,7 +5476,9 @@
             "il s'occupe de",
             "er kümmert sich"
           ]
-        ]
+        ],
+        [],
+        []
       ]
     },
     "slovensky": {
@@ -10927,6 +10889,50 @@
           [
             "prochain",
             "budúci"
+          ],
+          [
+            "léger, facile",
+            "ľahký"
+          ],
+          [
+            "lourd, difficile",
+            "ťažký"
+          ],
+          [
+            "exigeant, difficile",
+            "náročný"
+          ],
+          [
+            "fort",
+            "silný"
+          ],
+          [
+            "faible",
+            "slabý"
+          ],
+          [
+            "rapide",
+            "rýchly"
+          ],
+          [
+            "lent",
+            "pomalý"
+          ],
+          [
+            "simple",
+            "jednoduchý"
+          ],
+          [
+            "compliqué (à comprendre)",
+            "komplikovaný"
+          ],
+          [
+            "compliqué (complexe)",
+            "zložitý"
+          ],
+          [
+            "complexe",
+            "komplexný"
           ]
         ],
         [
@@ -10948,7 +10954,9 @@
             "il se couche",
             "ľahne"
           ]
-        ]
+        ],
+        [],
+        []
       ]
     }
   }
