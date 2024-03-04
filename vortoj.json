@@ -4096,6 +4096,10 @@
             "das Kind"
           ],
           [
+            "le bébé",
+            "das Baby"
+          ],
+          [
             "le garçon",
             "der Junge"
           ],
@@ -4142,10 +4146,6 @@
           [
             "le veuf",
             "der Witwer"
-          ],
-          [
-            "la personne",
-            "das Person"
           ],
           [
             "l'oncle",
@@ -4242,8 +4242,8 @@
             "der Arbeitgeber"
           ],
           [
-            "l'employé",
-            "der Angestellte"
+            "la personne",
+            "das Person"
           ]
         ],
         [
@@ -4712,6 +4712,30 @@
           [
             "le théâtre",
             "das Theater"
+          ],
+          [
+            "l'employé",
+            "der Angestellte"
+          ],
+          [
+            "la machine",
+            "die Maschine"
+          ],
+          [
+            "l'intérieur",
+            "das Innere"
+          ],
+          [
+            "l'extérieur",
+            "das Äußere"
+          ],
+          [
+            "le moteur",
+            "der Motor"
+          ],
+          [
+            "la volonté",
+            "der Wille"
           ]
         ],
         [
@@ -4776,6 +4800,10 @@
             "gerade"
           ],
           [
+            "juste (assez)",
+            "gerade"
+          ],
+          [
             "couramment",
             "fließend"
           ],
@@ -4800,6 +4828,14 @@
           [
             "souhaiter",
             "wünschen"
+          ],
+          [
+            "déplacer",
+            "verschieben"
+          ],
+          [
+            "se déplacer",
+            "sich bewegen"
           ],
           [
             "avancer",
@@ -4874,6 +4910,14 @@
           [
             "il souhaite",
             "er wünscht"
+          ],
+          [
+            "il déplace",
+            "er verschiebt"
+          ],
+          [
+            "il se déplace",
+            "er bewegt sich"
           ],
           [
             "il avance",
@@ -4986,12 +5030,32 @@
             "stimmen"
           ],
           [
+            "se peigner",
+            "sich kämmen"
+          ],
+          [
             "monter (à cheval)",
             "reiten"
           ],
           [
             "faire de la voile",
             "segeln"
+          ],
+          [
+            "espérer",
+            "hoffen"
+          ],
+          [
+            "se changer",
+            "sich umziehen"
+          ],
+          [
+            "continuer (qq chose)",
+            "fortsetzen"
+          ],
+          [
+            "bouger, remuer",
+            "bewegen"
           ]
         ],
         [
@@ -5042,6 +5106,34 @@
           [
             "il est exact",
             "er stimmt"
+          ],
+          [
+            "il se peigne",
+            "er kämmt sich"
+          ],
+          [
+            "il monte (à cheval)",
+            "er reitet"
+          ],
+          [
+            "il fait de la voile",
+            "er segelt"
+          ],
+          [
+            "il espère",
+            "er hofft"
+          ],
+          [
+            "il se change",
+            "er zieht sich um"
+          ],
+          [
+            "il continue",
+            "er setzt fort"
+          ],
+          [
+            "il bouge",
+            "er bewegt"
           ]
         ],
         [
@@ -5244,6 +5336,50 @@
           [
             "l'agenda",
             "der Terminkalender"
+          ],
+          [
+            "l'entreprise",
+            "das Unternehmen"
+          ],
+          [
+            "le président (d'état)",
+            "der Präsident"
+          ],
+          [
+            "le salaire",
+            "das Gehalt"
+          ],
+          [
+            "le salarié",
+            "der Beschäftigte"
+          ],
+          [
+            "la promotion",
+            "die Beförderung"
+          ],
+          [
+            "la publicité",
+            "die Werbung"
+          ],
+          [
+            "l'expert",
+            "der Schverständige"
+          ],
+          [
+            "l'expertise",
+            "das Gutachten"
+          ],
+          [
+            "la maîtrise",
+            "die Beherrschung"
+          ],
+          [
+            "la formation",
+            "die Ausbildung"
+          ],
+          [
+            "la carrière",
+            "die Karriere"
           ]
         ],
         [
@@ -5450,11 +5586,56 @@
           [
             "la ruche",
             "der Bienenstock"
+          ],
+          [
+            "le vent",
+            "der wind"
+          ],
+          [
+            "le nuage",
+            "die Wolke"
+          ],
+          [
+            "l'éclair",
+            "der Blitz"
+          ],
+          [
+            "le tonnerre",
+            "der Donner"
+          ],
+          [
+            "le temps (météo)",
+            "das Wetter"
+          ],
+          [
+            "la tempête",
+            "der Sturm"
+          ],
+          [
+            "la tornade",
+            "der Tornado"
+          ],
+          [
+            "le cyclone",
+            "der Zyklon"
+          ],
+          [
+            "la pluie",
+            "der Regen"
+          ],
+          [
+            "la grêle",
+            "der Hagel"
           ]
         ],
         [],
         [],
-        [],
+        [
+          [
+            "seulement, juste",
+            "nur"
+          ]
+        ],
         [],
         [],
         [
@@ -9597,10 +9778,6 @@
             "manželka"
           ],
           [
-            "la personne",
-            "osoba"
-          ],
-          [
             "l'oncle",
             "strýko"
           ],
@@ -9611,13 +9788,13 @@
           [
             "le cousin",
             "bratranec"
-          ]
-        ],
-        [
+          ],
           [
             "la cousine",
             "sesternica"
-          ],
+          ]
+        ],
+        [
           [
             "le neveu",
             "synovec"
@@ -9647,6 +9824,10 @@
             "rodičia"
           ],
           [
+            "les frères et sœurs",
+            "súrodenci"
+          ],
+          [
             "personne",
             "nikto"
           ],
@@ -9667,20 +9848,16 @@
             "vnučka"
           ],
           [
+            "les petits-enfants",
+            "vnúčatá"
+          ],
+          [
             "le petit ami",
             "priateľ"
           ],
           [
             "la petite amie",
             "priateľka"
-          ],
-          [
-            "les frères et sœurs",
-            "súrodenci"
-          ],
-          [
-            "les petits-enfants",
-            "vnúčatá"
           ],
           [
             "le monsieur",
@@ -9693,6 +9870,10 @@
           [
             "le passager",
             "cestujúci"
+          ],
+          [
+            "la personne",
+            "osoba"
           ]
         ],
         [
@@ -10882,6 +11063,10 @@
           [
             "continuellement",
             "plynulo"
+          ],
+          [
+            "seulement",
+            "len"
           ]
         ],
         [],
