@@ -10344,7 +10344,7 @@
             "divadlo"
           ],
           [
-            "l'employé",
+            "l'employé, le salarié",
             "zamestnanec"
           ],
           [
@@ -10528,11 +10528,88 @@
             "zakázať"
           ]
         ],
-        [],
+        [
+          [
+            "il loue (achète)",
+            "najme"
+          ],
+          [
+            "il loue (vend)",
+            "prenajme"
+          ],
+          [
+            "il souhaite",
+            "želá"
+          ],
+          [
+            "il déplace",
+            "posunie"
+          ],
+          [
+            "il se déplace",
+            "posunie sa"
+          ],
+          [
+            "il avance",
+            "posunie sa vpred"
+          ],
+          [
+            "il recule",
+            "cúva"
+          ],
+          [
+            "il monte",
+            "stúpa"
+          ],
+          [
+            "il descend",
+            "zostúpi"
+          ],
+          [
+            "il pousse",
+            "sotí"
+          ],
+          [
+            "il tire",
+            "ťahá"
+          ],
+          [
+            "il lève",
+            "zdvihne"
+          ],
+          [
+            "il se lève",
+            "vstane"
+          ],
+          [
+            "il se fait mal",
+            "ublíži"
+          ],
+          [
+            "il a honte",
+            "hanbí sa"
+          ],
+          [
+            "il réjouit",
+            "poteší"
+          ],
+          [
+            "il se réjouit",
+            "teší sa"
+          ],
+          [
+            "il fume",
+            "fajčí"
+          ],
+          [
+            "il interdit",
+            "zakáže"
+          ]
+        ],
         [
           [
             "choisir",
-            "vybrať"
+            "vybrať si"
           ],
           [
             "élire",
@@ -10556,7 +10633,7 @@
           ],
           [
             "avoir le droit de",
-            "mať pravo"
+            "mať právo"
           ],
           [
             "imaginer",
@@ -10572,7 +10649,11 @@
           ],
           [
             "guérir",
-            "uzdraviť"
+            "uzdraviť sa"
+          ],
+          [
+            "célébrer",
+            "oslavovať"
           ],
           [
             "se peigner",
@@ -10581,6 +10662,10 @@
           [
             "monter à cheval",
             "jazdiť na koni"
+          ],
+          [
+            "faire de la voile",
+            "plachtiť"
           ],
           [
             "espérer",
@@ -10593,12 +10678,88 @@
           [
             "connecter",
             "pripojiť"
+          ],
+          [
+            "bouger",
+            "hýbať sa"
           ]
         ],
         [
           [
             "il choisit",
-            "vyberie"
+            "vyberie si"
+          ],
+          [
+            "il élit",
+            "volí"
+          ],
+          [
+            "il tutoie",
+            "tyká"
+          ],
+          [
+            "il vouvoie",
+            "vyká"
+          ],
+          [
+            "il s'assoit",
+            "sadne si"
+          ],
+          [
+            "il est debout",
+            "stojí"
+          ],
+          [
+            "il a le droit de",
+            "má právo"
+          ],
+          [
+            "il imagine",
+            "predstaví si"
+          ],
+          [
+            "il voyage",
+            "cestuje"
+          ],
+          [
+            "il visite",
+            "navštívi"
+          ],
+          [
+            "il guérit",
+            "uzdraví"
+          ],
+          [
+            "il célèbre",
+            "oslavuje"
+          ],
+          [
+            "il se peigne",
+            "češe sa"
+          ],
+          [
+            "il monte (à cheval)",
+            "jazdí na koni"
+          ],
+          [
+            "il fait de la voile",
+            "plachtí"
+          ],
+          [
+            "il espère",
+            "dúfa"
+          ],
+          [
+            "il se change",
+            "prezlečie sa"
+          ],
+          [
+            "il connecte",
+            "pripojí"
+          ],
+          [
+            "il bouge",
+            "hýbe sa"
           ]
         ],
         [
@@ -10801,6 +10962,46 @@
           [
             "calendrier",
             "kalendár"
+          ],
+          [
+            "l'entreprise",
+            "podnik"
+          ],
+          [
+            "le président",
+            "prezident"
+          ],
+          [
+            "le salaire",
+            "mzda"
+          ],
+          [
+            "la promotion (avancement)",
+            "povýšenie"
+          ],
+          [
+            "la publicité",
+            "reklama"
+          ],
+          [
+            "l'expert",
+            "odbordník"
+          ],
+          [
+            "l'expertise",
+            "odbordnosť"
+          ],
+          [
+            "la maîtrise",
+            "ovládanie"
+          ],
+          [
+            "la formation",
+            "vzdelávanie"
+          ],
+          [
+            "la carrière",
+            "kariéra"
           ]
         ],
         [
@@ -11007,6 +11208,46 @@
           [
             "la ruche",
             "úľ"
+          ],
+          [
+            "le vent",
+            "vietor"
+          ],
+          [
+            "le nuage",
+            "mrak"
+          ],
+          [
+            "l'éclair",
+            "blesk"
+          ],
+          [
+            "le tonnerre",
+            "hrom"
+          ],
+          [
+            "le temps (météo)",
+            "počasie"
+          ],
+          [
+            "la tempête",
+            "búrka"
+          ],
+          [
+            "la tornade",
+            "tornádo"
+          ],
+          [
+            "le cyclone",
+            "cyklón"
+          ],
+          [
+            "la pluie",
+            "dážď"
+          ],
+          [
+            "la grêle",
+            "krúpy"
           ]
         ],
         [],
