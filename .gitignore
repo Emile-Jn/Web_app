@@ -1,5 +1,8 @@
 # .gitignore
 
+# bash script for pushing changes in the excel files to github
+run_and_push.sh
+
 # Node.js dependencies
 /node_modules
 
