@@ -12,6 +12,9 @@ const progressBar = document.getElementById("progress-bar");
 const progress = document.getElementById("progress");
 const tableBody = document.getElementById('logTableBody');
 const tableContainer = document.getElementById('logTableContainer');
+const importInput = document.getElementById('import-input');
+const importButton = document.getElementById('importButton');
+const exportButton = document.getElementById('exportButton');
 
 // Declare variables
 let vortoj = []
@@ -381,6 +384,41 @@ function showLogs() {
         scoreCell.textContent = log.score + '/' + log.scoreMax;
     });
 }
+
+importButton.addEventListener('click', () => {
+    importInput.click();
+});
+
+importInput.addEventListener('change', e => {
+    console.log("Reading file...")
+    const file = e.target.files[0];
+    const reader = new FileReader();
+    reader.onload = e => {
+        const data = JSON.parse(e.target.result);
+        localStorage.setItem("Deutsch", JSON.stringify(data.Deutsch));
+        localStorage.setItem("slovensky", JSON.stringify(data.slovensky));
+        showLogs();
+    };
+    reader.readAsText(file);
+});
+
+exportButton.addEventListener('click', () => {
+    const Deutsch = JSON.parse(localStorage.getItem("Deutsch")) || [];
+    const slovensky = JSON.parse(localStorage.getItem("slovensky")) || [];
+    const logs = { Deutsch, slovensky };
+    const data = JSON.stringify(logs, null, 2);
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'logs.json';
+    a.click();
+    // Clean up after download
+    setTimeout(() => {
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }, 100);
+});
 
 // Initialise the quiz:
 fetchQuestions()
